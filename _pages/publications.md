@@ -17,7 +17,7 @@ image:
 } 
 </style>
 
-![alt text](https://github.com/juvelas/juvelas.github.io/blob/master/publications2.jpg?raw=true)
+![alt text](https://github.com/juvelas/juvelas.github.io/blob/master/publications.jpg?raw=true)
 
 
 ## PUBLICATIONS
