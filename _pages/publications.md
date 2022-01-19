@@ -92,7 +92,7 @@ All publications can be downloaded from here [](tinyurl.com/y57kkpva)
 * Poe, S., Nieto-Montes de Oca, A., Torres-Carvajal, O., de Queiroz, K., __Velasco, J.A__., Truett, Gray, L., B., Ryan M.J., Kohler, G., Ayala-Varela & Latella, I. A Phylogenetic, Biogeographic, and Taxonomic study of all Extant Species of Anolis (Squamata; Iguanidae). 2017. Systematic Biology 66: 663-697.
 
 ### 2016
-__Velasco, J.A__., E. Martínez-Meyer., O. Flores-Villela., A. García-Aguayo., A. C. Algar and G. Kohler. 2016. Climatic niche attributes and diversification in Anolis lizards. Journal of Biogeography. 43: 134–144.
+* __Velasco, J.A__., E. Martínez-Meyer., O. Flores-Villela., A. García-Aguayo., A. C. Algar and G. Kohler. 2016. Climatic niche attributes and diversification in Anolis lizards. Journal of Biogeography. 43: 134–144.
 
 ### 2015
 * Escobedo-Galván AH, __Velasco, J.A__., JF Gonzalez-Maya & A Resetar. 2015. Morphological analysis of the Rio Apaporis Caiman (Reptilia, Crocodylia, Alligatoridae). Zootaxa 2015 (3): 541-554
@@ -173,7 +173,7 @@ __Velasco, J.A__., E. Martínez-Meyer., O. Flores-Villela., A. García-Aguayo.,
 
 # Under review
 
-Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
+* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
 
 * García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
 
