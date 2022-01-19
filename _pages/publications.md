@@ -17,10 +17,12 @@ image:
 } 
 </style>
 
+![alt text](https://github.com/juvelas/juvelas.github.io/blob/master/publications2.jpg?raw=true)
+
 
 ## PUBLICATIONS
 
-All publications can be downloaded from here: tinyurl.com/y57kkpva
+All publications can be downloaded from here: (tinyurl.com/y57kkpva)
 
 # Peer-reviewed papers: 41
 
