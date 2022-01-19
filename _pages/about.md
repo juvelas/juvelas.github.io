@@ -20,8 +20,7 @@ redirect_from:
 
 Dr. Julián A. Velasco
 Investigador Asociado C -Tiempo completo-
-Instituto de Ciencias de la Atmósfera y Cambio Climático
-Universidad Nacional Autónoma de México
+ICACC-UNAM
 Ciudad de México, México
 Phone: 56224240 Ext. 81898
 Email: javelasco@atmosfera.unam.mx
