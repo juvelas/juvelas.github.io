@@ -25,11 +25,11 @@ Las líneas de investigación que estamos desarrollando buscan evaluar los impac
 
 Algunos temas que estamos desarrollando en el Instituto de Ciencias de la Atmósfera y Cambio Climático son:
 
-1) Impactos de cambios climáticos abruptos en la biodiversidad en ambientes terrestres y marinos.
-2) Detección y atribución del cambio climático en los patrones geográficos de biodiversidad a multiples escalas espaciales y temporales.
-3) Evaluación de impactos de política climática en biodiversidad.
-4) El papel del paleo-clima y la dinámica de diversificación en los gradientes de biodiversidad y el impacto potencial del cambio climático antrópico.
-5) Pérdida de diferentes facetas de la biodiversidad (taxonómica, funcional, filogenética, genética) frente a escenarios de cambio climático.
+* 1) Impactos de cambios climáticos abruptos en la biodiversidad en ambientes terrestres y marinos.
+* 2) Detección y atribución del cambio climático en los patrones geográficos de biodiversidad a multiples escalas espaciales y temporales.
+* 3) Evaluación de impactos de política climática en biodiversidad.
+* 4) El papel del paleo-clima y la dinámica de diversificación en los gradientes de biodiversidad y el impacto potencial del cambio climático antrópico.
+* 5) Pérdida de diferentes facetas de la biodiversidad (taxonómica, funcional, filogenética, genética) frente a escenarios de cambio climático.
 
 Si está interesada/o en alguna de estas líneas de investigación para desarrollar su tesis de licenciatura y/o maestría no dude en escribir para más información.
 
