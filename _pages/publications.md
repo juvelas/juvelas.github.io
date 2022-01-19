@@ -22,9 +22,9 @@ image:
 
 ## PUBLICATIONS
 
-All publications can be downloaded from here [](tinyurl.com/y57kkpva)
+[All publications can be downloaded from here](tinyurl.com/y57kkpva)
 
-# Peer-reviewed papers: 41
+# Peer-reviewed papers: 42 in total
 
 ### 2022
 * Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. Acceṕted. Community Ecology. XX: XX-XX.
