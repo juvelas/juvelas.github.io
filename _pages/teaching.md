@@ -22,6 +22,9 @@ image:
 
 Herramientas para la evaluación de impactos del cambio climático en sistemas naturales y humanos (Agosto-Diciembre)
 
+[Programa del Curso](https://github.com/juvelas/juvelas.github.io/raw/master/CV/Programa_Final.pdf)
+
+[Prácticas en R](https://github.com/juvelas/Curso-CCA-UNAM) 
 
 
 
@@ -29,9 +32,9 @@ Herramientas para la evaluación de impactos del cambio climático en sistemas n
 Modelado de nichos ecológicos y distribuciones geográficas. FES Zaragosa. Agosto 2018.
 Curso Intensivo Básico.
 
-- Introducción básica a R https://juvelas.github.io/Clases/Intro_R.html
-- Cartografía básica https://juvelas.github.io/Clases/Cartografia_Basica.html
-- Descarga y depuración de datos de GBIF https://juvelas.github.io/Clases/GBIF.html
-- Modelizaje de nicho, predicciones geográficas, validaciones https://juvelas.github.io/Clases/Modelos_Validaciones.html
+- [Introducción básica a R](https://juvelas.github.io/Clases/Intro_R.html)
+- [Cartografía básica](https://juvelas.github.io/Clases/Cartografia_Basica.html)
+- [Descarga y depuración de datos de GBIF](https://juvelas.github.io/Clases/GBIF.html)
+- [Modelizaje de nicho, predicciones geográficas, validaciones](https://juvelas.github.io/Clases/Modelos_Validaciones.html)
 
 
