@@ -22,7 +22,7 @@ image:
 
 ## PUBLICATIONS
 
-All publications can be downloaded from here: (tinyurl.com/y57kkpva)
+All publications can be downloaded from here [](tinyurl.com/y57kkpva)
 
 # Peer-reviewed papers: 41
 
@@ -37,7 +37,7 @@ All publications can be downloaded from here: (tinyurl.com/y57kkpva)
 
 * Tepos-Ramírez, M., Flores-Villela, O., __Velasco, J.A__., Pedraza-Lara, C., García-Rubi, O.R & Jadin, R.C. 2021. Molecular Phylogenetics and Morphometrics Reveal a New Endemic Jumping Pitviper (Serpentes: Viperidae: Metlapilcoatlus) from the Sierra Madre Oriental of Mexico. Journal of Herpetology 55: 181–191.
 
-* Haro, A., Mendoza-Ponce, A., Calderón, O., __Velasco, J.A__., Estrada, F. 2021. Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 10 June 2021 https://doi.org/10.3389/fclim.2021.674693​
+* Haro, A., Mendoza-Ponce, A., Calderón, O., __Velasco, J.A__., Estrada, F. 2021. Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 10 June 2021 https://doi.org/10.3389/fclim.2021.674693
 
 * __Velasco, J.A__., Estrada, F., Calderón-Bustamante, O., Swingedouw, D., Ureta, C., Gay, C., Defrance, D. 2021. Synergistic impacts of global warming and thermohaline circulation collapse on amphibians. Communications Biology 4:141.  https://doi.org/10.1038/s42003-021-01665-6
 
