@@ -14,7 +14,7 @@ share: yes
 }
 </style>
 
-![alt text](https://github.com/juvelas/julian_velasco.github.io/blob/master/contacto2.jpg?raw=true)
+![alt text](https://github.com/juvelas/julian_velasco.github.io/blob/master/contact.jpg?raw=true)
 
 ### Address:  
 Dr. Julián Andrés Velasco Vinasco    
