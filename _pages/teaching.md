@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Teaching & Outreach"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 published: true
 share: false
 image: 
-  feature: research2.jpg
+  feature: research3.jpg
 ---
 
 <style type="text/css">
@@ -15,7 +15,17 @@ image:
 }
 </style>
 
+![alt text](https://github.com/juvelas/juvelas.github.io/blob/master/research3.jpg?raw=true)
 
+
+## Posgrado Ciencias de la Tierra, UNAM
+
+Herramientas para la evaluación de impactos del cambio climático en sistemas naturales y humanos (Agosto-Diciembre)
+
+
+
+
+## Cursos de extensión
 Modelado de nichos ecológicos y distribuciones geográficas. FES Zaragosa. Agosto 2018.
 Curso Intensivo Básico.
 
