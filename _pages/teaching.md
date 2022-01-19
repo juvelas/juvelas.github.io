@@ -24,3 +24,4 @@ Curso Intensivo Básico.
 - Descarga y depuración de datos de GBIF https://juvelas.github.io/Clases/GBIF.html
 - Modelizaje de nicho, predicciones geográficas, validaciones https://juvelas.github.io/Clases/Modelos_Validaciones.html
 
+
