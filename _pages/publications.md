@@ -22,7 +22,7 @@ image:
 
 ## PUBLICATIONS
 
-[All publications can be downloaded from here](tinyurl.com/y57kkpva)
+[All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
 # Peer-reviewed papers: 42 in total
 
