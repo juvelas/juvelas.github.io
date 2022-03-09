@@ -175,18 +175,16 @@ image:
 
 # Under review
 
-* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
-
-* García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
-
-* Martínez-Meyer, E and __Velasco, J.A__. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book proposal: Mexican Fauna in the Anthropocene. 
-
-* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. Assessing conserved morphologies in a non-adaptive radiation: testing the existence of morphotypes and phenotype diversification in Phyllodactylus geckos. Submitted to Evolutionary Biology.
+* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Submitted to Evolutionary Biology.
 
 * __Velasco, J.A__., Luna-Aranguré, C., Calderón-Bustamante, O, Mendoza, A., González-Salazar, C, Estrada, F. A macroecological approach to evaluate the relative role of geographical, ecological and socioeconomic drivers of urban biodiversity across Mexican cities. Submitted to Frontiers in Conservation Science.
 
 * Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Submitted to Journal of Biogeography.
 
+* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
+
+* Martínez-Meyer, E and __Velasco, J.A__. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book proposal: Mexican Fauna in the Anthropocene. 
+
+* García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
+
 * García-Rodríguez, A., Villalobos, F, __Velasco, J.A__ & Costa, GC. Causes and consequences of the latitudinal variation in amphibian speciation rates. Submitted to Journal of Biogeography.
-
-
