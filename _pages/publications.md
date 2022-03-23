@@ -27,9 +27,9 @@ image:
 # Peer-reviewed papers: 42 in total
 
 ### 2022
-* Mercado-Gómez, J.D., Morales-Puentes, M.E., Gonzalez, M.A., __Velasco, J.A__. Seasonal droughts during the Miocene drove the evolution of Capparaceae towards   Neotropical seasonally dry forests. Revista de Biología Tropical 70: 132-148. https://doi.org/10.15517/rev.biol.trop..v70i1.47504
+* Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. In press. Community Ecology. XX: XX-XX.
 
-* Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. Acceṕted. Community Ecology. XX: XX-XX.
+* Mercado-Gómez, J.D., Morales-Puentes, M.E., Gonzalez, M.A., __Velasco, J.A__. 2022. Seasonal droughts during the Miocene drove the evolution of Capparaceae towards Neotropical seasonally dry forests. Revista de Biología Tropical 70: 132-148. https://doi.org/10.15517/rev.biol.trop..v70i1.47504
 
 * Cruz-Elizalde, R., Ramírez-Bautista, A., Lozano, A.,  __Velasco, J. A__., Octavio-Aguilar, P., Berriozabal-Islas, C. 2022. Sexual size and shape dimorphism in the Sceloporus scalaris species group (Squamata: Phrynosomatidae) from the Transvolcanic Belt of Mexico. 2022. Biological Journal of the Linnean Society. XX: 1-19. https://doi.org/10.1093/biolinnean/blab169
 
@@ -174,6 +174,9 @@ image:
 * __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. doi: https://doi.org/10.1101/261867​
 
 # Under review
+
+* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. A deconstructive approach to evaluate dimensions of alpha
+diversity in squamates (Reptilia: Squamata) across the Americas. Submitted to Global Ecology and Biogeography.
 
 * Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Submitted to Evolutionary Biology.
 
