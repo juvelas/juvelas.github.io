@@ -150,12 +150,15 @@ image:
 
 * Corredor, G., Velasquez, B., __Velasco, J.A__., Castro, F., Bolivar, W., Salazar, ML (eds.). 2010. Plan de Acción para la Conservación de los Anfibios del Departamento del Valle del Cauca. Corporación Autónoma Regional del Valle del Cauca –CVC. Santiago de Cali. 41 p. ISBN: 978-958-9187-96-8. 
 
-# Divulgación científica: 3
+# Divulgación científica: 4
 * Castelblanco-Martínez, D.N., Arévalo-González, G.K., Aguilar-Rodríguez, B., __Velasco, J.A__., Moreno-Bernal, J.W., Restrepo, S., Moreno-Arias, R. 2021. Uncontrolled invasive hippos in the Magdalena River basin: An emergent threat to Antillean manatees in Colombia? Sirenews 73: 17-21.  https://mission.cmaquarium.org/app/uploads/2021/05/Sirenews-73-April2021-update.pdf
+
+* __Velasco, J.A__, Estrada, F and Calderón-Bustamante. 2021. Climate catastrophes, tipping points, and biodiversity. https://ecoevocommunity.nature.com/posts/climate-catastrophes-tipping-points-and-biodiversity
 
 * Mejía-Domínguez, N.R., Ochoa-Ochoa, L.M., __Velasco, J.A__. 2020. Dinámica de metacomunidades en ecosistemas fragmentados. Ciencia. Oct-Dic. 2020. 71(4): 11-17.  https://www.revistaciencia.amc.edu.mx/online/X3_71_4_1301_Metacomunidades.pdf 
 
 * __Velasco, J.A__. 2020. When macroecology meets atmospheric sciences…Atmósfera. DOI: https://doi.org/10.20937/ATM.52896.
+
 
 # Non-indexed papers: 4
 * Martínez-Meyer, E., A. González-Bernal, __J. A. Velasco__, T. L. Swetnam, Z. Y. GonzálezSaucedo, J. Servín, C. A. López González, N. E. Lara Díaz, C. Aguilar Miguel, C. Chávez García, and J. K. Oakleaf. 2017. Mexican wolf habitat suitability analysis in historical range in the Southwestern US and Mexico. Final Report. U.S. Fish and Wildlife Service, Region 2, Albuquerque, New Mexico, USA. April 2017. 86 pp
