@@ -178,12 +178,12 @@ image:
 
 # Under review
 
+* __Velasco, J.A__., Luna-Aranguré, C., Calderón-Bustamante, O, Mendoza, A., González-Salazar, C, Estrada, F. The role of geographical, ecological and socioeconomic drivers shapíng urban biodiversity across Mexican cities. Submitted to Diversity and Distributions.
+
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Submitted to Global Ecology and Biogeography.
 
 * Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Submitted to Evolutionary Biology.
-
-* __Velasco, J.A__., Luna-Aranguré, C., Calderón-Bustamante, O, Mendoza, A., González-Salazar, C, Estrada, F. A macroecological approach to evaluate the relative role of geographical, ecological and socioeconomic drivers of urban biodiversity across Mexican cities. Submitted to Frontiers in Conservation Science.
 
 * Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Submitted to Journal of Biogeography.
 
