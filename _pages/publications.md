@@ -27,13 +27,15 @@ image:
 # Peer-reviewed papers: 42 in total
 
 ### 2022
-* Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. In press. Community Ecology. 23: 87–102. https://link.springer.com/article/10.1007/s42974-022-00075-w
+* Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. Community Ecology. 23: 87–102. https://link.springer.com/article/10.1007/s42974-022-00075-w
 
 * Mercado-Gómez, J.D., Morales-Puentes, M.E., Gonzalez, M.A., __Velasco, J.A__. 2022. Seasonal droughts during the Miocene drove the evolution of Capparaceae towards Neotropical seasonally dry forests. Revista de Biología Tropical 70: 132-148. https://doi.org/10.15517/rev.biol.trop..v70i1.47504
 
-* Cruz-Elizalde, R., Ramírez-Bautista, A., Lozano, A.,  __Velasco, J. A__., Octavio-Aguilar, P., Berriozabal-Islas, C. 2022. Sexual size and shape dimorphism in the Sceloporus scalaris species group (Squamata: Phrynosomatidae) from the Transvolcanic Belt of Mexico. 2022. Biological Journal of the Linnean Society. XX: 1-19. https://doi.org/10.1093/biolinnean/blab169
+* Cruz-Elizalde, R., Ramírez-Bautista, A., Lozano, A.,  __Velasco, J. A__., Octavio-Aguilar, P., Berriozabal-Islas, C. 2022. Variation in size and shape sexual dimorphism in the Sceloporus scalaris species group (Squamata: Phrynosomatidae) from the Transvolcanic Belt of Mexico. Biological Journal of the Linnean Society. 135: 499-517 https://academic.oup.com/biolinnean/article-abstract/135/3/499/6494413
 
 ### 2021 
+
+* Campillo, G., Flores-Villela, O., Butler, B., \textbf{Velasco, J.A}., Ramírez-Corona, F.  2021. Hidden diversity within a polytypic species: The enigmatic Sceloporus torquatus Wiegmann, 1828 (Reptilia, Squamata, Phrynosomatidae). Vertebrate Zoology. 71: 781-798. https://vertebratezoology.arphahub.com/article/71995/
 
 * García-Rodríguez, A., Martínez, P.A., Oliveira, B.F., __Velasco, J.A__., Pyron, A & Costa, G.C. 2021. Amphibian speciation rates support a general role of mountains as biodiversity pumps. The American Naturalist. 198: E68-E79. https://doi.org/10.1086/715500
 
