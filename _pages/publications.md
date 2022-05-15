@@ -35,7 +35,7 @@ image:
 
 ### 2021 
 
-* Campillo, G., Flores-Villela, O., Butler, B., \textbf{Velasco, J.A}., Ramírez-Corona, F.  2021. Hidden diversity within a polytypic species: The enigmatic Sceloporus torquatus Wiegmann, 1828 (Reptilia, Squamata, Phrynosomatidae). Vertebrate Zoology. 71: 781-798. https://vertebratezoology.arphahub.com/article/71995/
+* Campillo, G., Flores-Villela, O., Butler, B., __Velasco, J.A__., Ramírez-Corona, F.  2021. Hidden diversity within a polytypic species: The enigmatic Sceloporus torquatus Wiegmann, 1828 (Reptilia, Squamata, Phrynosomatidae). Vertebrate Zoology. 71: 781-798. https://vertebratezoology.arphahub.com/article/71995/
 
 * García-Rodríguez, A., Martínez, P.A., Oliveira, B.F., __Velasco, J.A__., Pyron, A & Costa, G.C. 2021. Amphibian speciation rates support a general role of mountains as biodiversity pumps. The American Naturalist. 198: E68-E79. https://doi.org/10.1086/715500
 
