@@ -24,9 +24,13 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 42 in total
+# Peer-reviewed papers: 44 in total
 
 ### 2022
+* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. 2022. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Accepted. Evolutionary Biology. XX: XX-XX.
+
+* Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. 2022. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Biological Journal of the Linnean Society. XX: XX-XX.
+
 * Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. Community Ecology. 23: 87–102. https://link.springer.com/article/10.1007/s42974-022-00075-w
 
 * Mercado-Gómez, J.D., Morales-Puentes, M.E., Gonzalez, M.A., __Velasco, J.A__. 2022. Seasonal droughts during the Miocene drove the evolution of Capparaceae towards Neotropical seasonally dry forests. Revista de Biología Tropical 70: 132-148. https://doi.org/10.15517/rev.biol.trop..v70i1.47504
@@ -184,10 +188,6 @@ image:
 
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Submitted to Global Ecology and Biogeography.
-
-* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Submitted to Evolutionary Biology.
-
-* Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Submitted to Journal of Biogeography.
 
 * Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
 
