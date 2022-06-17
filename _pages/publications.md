@@ -126,7 +126,9 @@ image:
 
 * __Velasco, J.A__. & A. Herrel. 2007. Ecomorphology of the Anolis lizards of the Choco region in Colombia and comparisons with Greater Antillean ecomorphs. Biological Journal of Linnean Society 92: 29-39. 
 
-# Book chapters: 6
+# Book chapters: 7
+* Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. 
+
 * Bermúdez-Rivas, C., Aguirre-Tapiero, M. P., __Velasco, J.A__. 2020. Capítulo VII. Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. En: Compilación oceanográfica de la Cuenca Pacífica Colombiana II. Pp 198-231. Dirección General Marítima. Bogotá, D.C. Editorial Dimar.
 
 * __Velasco, J.A__., 2018. Are historical biogeographical events able to promote biological diversification. In: Pure and Applied Biogeography. InTechOpen. pp. 2-17.
@@ -190,8 +192,6 @@ image:
 diversity in squamates (Reptilia: Squamata) across the Americas. Submitted to Global Ecology and Biogeography.
 
 * Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
-
-* Martínez-Meyer, E and __Velasco, J.A__. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book proposal: Mexican Fauna in the Anthropocene. 
 
 * García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
 
