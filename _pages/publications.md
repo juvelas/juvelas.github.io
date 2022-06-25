@@ -24,10 +24,10 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 44 in total
+# Peer-reviewed papers: 45 in total
 
 ### 2022
-* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. 2022. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Accepted. Evolutionary Biology. XX: XX-XX.
+* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. 2022. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Evolutionary Biology. XX: XX-XX.
 
 * Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. 2022. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Biological Journal of the Linnean Society. XX: XX-XX.
 
