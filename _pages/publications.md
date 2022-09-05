@@ -24,12 +24,17 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 45 in total
+# Peer-reviewed papers: 47 in total
 
 ### 2022
-* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. 2022. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Evolutionary Biology. XX: XX-XX.
 
-* Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. 2022. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Biological Journal of the Linnean Society. XX: XX-XX.
+* __Velasco, J.A__ & Pinto-Ledezma, J. 2022. Mapping diversification metrics in macroecological studies: Prospects and challenges. Frontiers in Ecology and Evolution. In press. doi: 10.3389/fevo.2022.951271
+
+* González-Salazar, C., Meneses-Mosquera, A.K., Aguirre-Peña, A., Fernández-Castel, K.P.J., Stephens, C.R., Mendoza-Ponce, A., __Velasco, J.A__., Calderón-Bustamante, O., Estrada, F. 2022. Toward New Epidemiological Landscapes of Trypanosoma cruzi (Kinetoplastida, Trypanosomatidae) Transmission under Future Human-Modified Land Cover and Climatic Change in Mexico. Tropical Medicine and Infectious Disease 2022, 7, 221. https://doi.org/10.3390/tropicalmed7090221
+
+* Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. 2022. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Evolutionary Biology 49: 373-387. https://doi.org/10.1007/s11692-022-09575-z
+
+* Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. 2022. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Biological Journal of the Linnean Society XX: 1-17. https://doi.org/10.1093/biolinnean/blac066
 
 * Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. Community Ecology. 23: 87–102. https://link.springer.com/article/10.1007/s42974-022-00075-w
 
@@ -56,7 +61,7 @@ image:
 * Castelblanco-Martínez, D. M., Moreno-Arias, R., __Velasco, J.A__., Moreno-Bernal, J., Restrepo, S., Noguera-Urbano, E., Baptiste, M. P., García-Loaiza, L. M., Jímenez, G. L.  2021. A hippo in the room: Predicting the persistence and dispersion of an invasive mega-vertebrate in Colombia, South America. Biological Conservation 253: 108923​.
 
 ### 2020
-* Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A*__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. __*corresponding author__
+* Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. __corresponding author__
 
 * Donihue, C.M, Kowaleski, C., Algar, A., Baeckens, S., Buchkowski, R.W., Fabre, A.C., Frank, H.K., Geneva, A.J., Mahler, D.L., Reynolds, R.G., Stroud, J.T., __Velasco, J.A__, Kolbe, J.J, Losos, J.B & Herrel, A. 2020. Hurricane Effects on Neotropical Lizards Span Geographic and Phylogenetic Scales. PNAS. 117(19): 10429-10434.
 
