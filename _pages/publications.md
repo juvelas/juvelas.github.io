@@ -24,9 +24,11 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 47 in total
+# Peer-reviewed papers: 48 in total
 
 ### 2022
+
+* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. 2022. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Accepted in Environmental Modelling and Software.
 
 * __Velasco, J.A__ & Pinto-Ledezma, J. 2022. Mapping diversification metrics in macroecological studies: Prospects and challenges. Frontiers in Ecology and Evolution. In press. doi: 10.3389/fevo.2022.951271
 
@@ -195,8 +197,6 @@ image:
 
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Submitted to Global Ecology and Biogeography.
-
-* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Submitted to Environmental Modelling and Software.
 
 * García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
 
