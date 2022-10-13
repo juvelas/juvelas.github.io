@@ -24,9 +24,12 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 48 in total
+# Peer-reviewed papers: 49 in total
 
 ### 2022
+
+* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. 2022*. A deconstructive approach to evaluate dimensions of alpha
+diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography. Minor revisions*
 
 * Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. 2022. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Accepted in Environmental Modelling and Software.
 
@@ -194,9 +197,6 @@ image:
 # Under review
 
 * __Velasco, J.A__., Luna-Aranguré, C., Calderón-Bustamante, O, Mendoza, A., González-Salazar, C, Estrada, F. The role of geographical, ecological and socioeconomic drivers shapíng urban biodiversity across Mexican cities. Submitted to Diversity and Distributions.
-
-* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. A deconstructive approach to evaluate dimensions of alpha
-diversity in squamates (Reptilia: Squamata) across the Americas. Submitted to Global Ecology and Biogeography.
 
 * García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
 
