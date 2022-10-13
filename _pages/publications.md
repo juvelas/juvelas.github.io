@@ -31,9 +31,9 @@ image:
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. 2022. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography. Pending for minor revisions. __corresponding author__
 
-* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. 2022. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Accepted in Environmental Modelling and Software.
+* Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. 2022. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Environmental Modelling and Software 157(2022): 105528 https://doi.org/10.1016/j.envsoft.2022.105528
 
-* __Velasco, J.A__ & Pinto-Ledezma, J. 2022. Mapping diversification metrics in macroecological studies: Prospects and challenges. Frontiers in Ecology and Evolution. In press. doi: 10.3389/fevo.2022.951271
+* __Velasco, J.A__ & Pinto-Ledezma, J. 2022. Mapping diversification metrics in macroecological studies: Prospects and challenges. Frontiers in Ecology and Evolution. 28 September 2022: 1-18. https://doi.org/10.3389/fevo.2022.951271 
 
 * González-Salazar, C., Meneses-Mosquera, A.K., Aguirre-Peña, A., Fernández-Castel, K.P.J., Stephens, C.R., Mendoza-Ponce, A., __Velasco, J.A__., Calderón-Bustamante, O., Estrada, F. 2022. Toward New Epidemiological Landscapes of Trypanosoma cruzi (Kinetoplastida, Trypanosomatidae) Transmission under Future Human-Modified Land Cover and Climatic Change in Mexico. Tropical Medicine and Infectious Disease 2022, 7, 221. https://doi.org/10.3390/tropicalmed7090221
 
