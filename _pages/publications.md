@@ -28,8 +28,8 @@ image:
 
 ### 2022
 
-* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. 2022*. A deconstructive approach to evaluate dimensions of alpha
-diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography. Minor revisions*
+* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. 2022. A deconstructive approach to evaluate dimensions of alpha
+diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography. Pending for minor revisions
 
 * Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. 2022. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Accepted in Environmental Modelling and Software.
 
