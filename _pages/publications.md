@@ -43,7 +43,7 @@ https://doi.org/10.1111/geb.13617
 
 * Ramírez-Reyes, T., __Velasco, J.A__., Flores-Villela, O. & Piñero, D. 2022. Decoupling in diversification and body size rates during the radiation of Phyllodactylus: evidence suggests scarce role of ecology shaping phenotypes. Evolutionary Biology 49: 373-387. https://doi.org/10.1007/s11692-022-09575-z
 
-* Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. 2022. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Biological Journal of the Linnean Society XX: 1-17. https://doi.org/10.1093/biolinnean/blac066
+* Cisneros-Bernal, A. Y., Rodríguez-Gómez, F., Flores-Villela, O., Fujita, M.K., __Velasco, J.A__.,  & Fernández, J.A. 2022. Phylogeography supports lineages divergence for an endemic rattlesnake (Crotalus ravus) of the Neotropical Montane Forest on the Trans-Mexican Volcanic Belt. Biological Journal of the Linnean Society 137: 496–512. https://doi.org/10.1093/biolinnean/blac066
 
 * Cruz-Elizalde, R., Ochoa-Ochoa, L. M., Flores-Villela, O., __Velasco, J.A__. 2022. Taxonomic distinctiveness and phylogenetic variability of amphibians and reptiles in the cloud forest of Mexico. Community Ecology. 23: 87–102. https://link.springer.com/article/10.1007/s42974-022-00075-w
 
@@ -203,6 +203,3 @@ https://doi.org/10.1111/geb.13617
 
 * Vásquez-Restrepo, J.D & __Velasco, J.A__ Little great travelers: assessing the present and future colonization suitability areas of the Indo-Pacific Gecko Hemidactylus garnotii (Squamata: Gekkonidae). Submitted to Biological Conservation.
 
-* García-Rodríguez, A., Arias, E., Parra-Olear, G., __Velasco, J.A__. Unraveling the links between environmental heterogeneity, climatic instability and lineage diversification in the bridge of the Americas. Submitted to Evolution.
-
-* García-Rodríguez, A., Villalobos, F, __Velasco, J.A__ & Costa, GC. Causes and consequences of the latitudinal variation in amphibian speciation rates. Submitted to Journal of Biogeography.
