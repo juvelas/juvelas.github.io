@@ -201,5 +201,5 @@ https://doi.org/10.1111/geb.13617
 
 # Under review
 
-* Vásquez-Restrepo, J.D & __Velasco, J.A__ Little great travelers: assessing the present and future colonization suitability areas of the Indo-Pacific Gecko Hemidactylus garnotii (Squamata: Gekkonidae). Submitted to Biological Conservation.
+* Vásquez-Restrepo, J.D & __Velasco, J.A__ Little great travelers: assessing the present and future colonization suitability areas of the Indo-Pacific Gecko Hemidactylus garnotii (Squamata: Gekkonidae).
 
