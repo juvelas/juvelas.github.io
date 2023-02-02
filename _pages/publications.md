@@ -26,10 +26,14 @@ image:
 
 # Peer-reviewed papers: 49 in total
 
-### 2022
+### 2023
 
-* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__. 2022. A deconstructive approach to evaluate dimensions of alpha
-diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography. Pending for minor revisions. __corresponding author__
+* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha
+diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
+https://doi.org/10.1111/geb.13617
+
+
+### 2022
 
 * Estrada, F., Calderón-Bustamante, O., Botzen, W., __Velasco, J.A__., Tol, R.S.J. 2022. AIRCC-Clim: a user-friendly tool for generating regional probabilistic climate change scenarios and risk measures. Environmental Modelling and Software 157(2022): 105528 https://doi.org/10.1016/j.envsoft.2022.105528
 
@@ -137,7 +141,8 @@ diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology 
 * __Velasco, J.A__. & A. Herrel. 2007. Ecomorphology of the Anolis lizards of the Choco region in Colombia and comparisons with Greater Antillean ecomorphs. Biological Journal of Linnean Society 92: 29-39. 
 
 # Book chapters: 7
-* Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. 
+
+* Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
 
 * Bermúdez-Rivas, C., Aguirre-Tapiero, M. P., __Velasco, J.A__. 2020. Capítulo VII. Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. En: Compilación oceanográfica de la Cuenca Pacífica Colombiana II. Pp 198-231. Dirección General Marítima. Bogotá, D.C. Editorial Dimar.
 
