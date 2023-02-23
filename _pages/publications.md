@@ -24,9 +24,11 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 49 in total
+# Peer-reviewed papers: 50 in total
 
 ### 2023
+
+* Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. _Frontiers Environmental Science XX: XXX_
 
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
@@ -209,8 +211,6 @@ https://doi.org/10.1111/geb.13617
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O. & __Velasco, J.A__ Size does matter: Assessing geographical patterns in body size among New World squamates (Reptilia: Squamata). Submitted to Functional Ecology.
 
 * Vásquez-Restrepo, J.D & __Velasco, J.A__ Little great travelers: assessing the present and future colonization suitability areas of the Indo-Pacific Gecko Hemidactylus garnotii (Squamata: Gekkonidae). Submitted to Perspectives in Ecology and Conservation.
-
-* Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Submitted to Frontiers Environmental Science.
 
 * Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Submitted to Frontiers in Biogeography.
 
