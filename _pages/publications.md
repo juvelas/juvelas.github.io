@@ -28,7 +28,7 @@ image:
 
 ### 2023
 
-* Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science XX: XX-XX
+* Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science XX: XX-XX
 
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
