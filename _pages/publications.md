@@ -24,11 +24,13 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 50 in total
+# Peer-reviewed papers: 51 in total
 
 ### 2023
 
-* Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science XX: XX-XX
+* Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. Accepted.
+* 
+* Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha
 diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
@@ -205,14 +207,6 @@ https://doi.org/10.1111/geb.13617
 # Under review
 
 * Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, Julian A__,; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Submitted to Global Change Biology.
-
-* __Velasco, J.A__, Luna-Aranguré, C., Calderón-Bustamante, O., Mendoza-Ponce, A., González-Salazar, C., Estrada, F. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. Submitted to Conservation Biology.
-
-* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O. & __Velasco, J.A__ Size does matter: Assessing geographical patterns in body size among New World squamates (Reptilia: Squamata). Submitted to Functional Ecology.
-
-* Vásquez-Restrepo, J.D & __Velasco, J.A__ Little great travelers: assessing the present and future colonization suitability areas of the Indo-Pacific Gecko Hemidactylus garnotii (Squamata: Gekkonidae). Submitted to Perspectives in Ecology and Conservation.
-
-* Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Submitted to Frontiers in Biogeography.
 
 * Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Energy Policy Journal. 
 
