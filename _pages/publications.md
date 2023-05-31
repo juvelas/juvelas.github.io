@@ -210,7 +210,7 @@ https://doi.org/10.1111/geb.13617
 
 * Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, Julian A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Submitted to Global Change Biology.
 
-* Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Energy Policy Journal. 
+* Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Regional Environmental Change. 
 
 
 
