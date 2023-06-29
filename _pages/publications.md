@@ -179,7 +179,9 @@ https://doi.org/10.1111/geb.13617
 
 * Corredor, G., Velasquez, B., __Velasco, J.A__., Castro, F., Bolivar, W., Salazar, ML (eds.). 2010. Plan de Acción para la Conservación de los Anfibios del Departamento del Valle del Cauca. Corporación Autónoma Regional del Valle del Cauca –CVC. Santiago de Cali. 41 p. ISBN: 978-958-9187-96-8. 
 
-# Divulgación científica: 4
+# Scientific divulgation: 5
+* __Velasco, J.A__. 2023. El colapso de la corriente AMOC y los impactos sobre la diversidad de anfibios a nivel global. Pag. 83-90. En: Primer Compendio Sobre las Investigaciones en Cambio Climático de la UNAM 2021. Editor Rubén Darío Martínez Ramírez. PINCC-Universidad Nacional Autónoma de México. ISBN: 978-607-30-7730-9.
+  
 * Castelblanco-Martínez, D.N., Arévalo-González, G.K., Aguilar-Rodríguez, B., __Velasco, J.A__., Moreno-Bernal, J.W., Restrepo, S., Moreno-Arias, R. 2021. Uncontrolled invasive hippos in the Magdalena River basin: An emergent threat to Antillean manatees in Colombia? Sirenews 73: 17-21.  https://mission.cmaquarium.org/app/uploads/2021/05/Sirenews-73-April2021-update.pdf
 
 * __Velasco, J.A__, Estrada, F and Calderón-Bustamante. 2021. Climate catastrophes, tipping points, and biodiversity. https://ecoevocommunity.nature.com/posts/climate-catastrophes-tipping-points-and-biodiversity
