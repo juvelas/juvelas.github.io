@@ -24,13 +24,15 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 52 in total
+# Peer-reviewed papers: 53 in total
 
 ### 2023
 
-* Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, Julian A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology. Accepted pending minor reviews.
+* Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. Diversity. Accepted.
 
-* Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. Accepted.
+* Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. In press.
+
+* Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, Julian A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology. https://doi.org/10.1111/gcb.16849
 
 * Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
