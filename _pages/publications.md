@@ -28,9 +28,9 @@ image:
 
 ### 2023
 
-* Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. Diversity. Accepted.
-
 * Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. In press.
+
+* Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881; https://doi.org/10.3390/d15070881 
 
 * Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, Julian A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology. https://doi.org/10.1111/gcb.16849
 
