@@ -24,7 +24,7 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 53 in total
+# Peer-reviewed papers: 54 in total
 
 ### 2023
 
