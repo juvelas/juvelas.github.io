@@ -212,6 +212,8 @@ https://doi.org/10.1111/geb.13617
 
 # Under review
 
+* __Velasco, Julian A__; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. Submitted to Communications Biology.
+
 * Basanta, M. Delia; __Velasco, Julian A__; González-Salazar, C. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Submitted to Wildlife Biology.
 
 * Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Regional Environmental Change. 
