@@ -20,7 +20,8 @@ redirect_from:
 
 
 ## Appointments
-* 2020-Present: __Investigador Asociado nivel C TC__. Instituto de Ciencias Atmósfericas y Cambio Climático, Universidad Nacional Autónoma de México.
+* 2023-Present: __Investigador Titular nivel A TC__. Instituto de Ciencias Atmósfericas y Cambio Climático, Universidad Nacional Autónoma de México.
+* 2020-2023: __Investigador Asociado nivel C TC__. Instituto de Ciencias Atmósfericas y Cambio Climático, Universidad Nacional Autónoma de México.
 * 2017-2018: __Posdoctoral Fellow DGAPA-UNAM__. Museo de Zoología Alfonso L. Herrera, Facultad de Ciencias, Universidad Nacional Autónoma de México.
 * 2016-2017. __Posdoctoral Fellow__. Universidad de Guadalajara, CUC-Costa, Jalisco, México.
 * 2008-2011: __Researcher__. Programa Colombia. Wildlife Conservation Society. Cali, Colombia.
