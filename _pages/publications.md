@@ -148,8 +148,10 @@ https://doi.org/10.1111/geb.13617
 
 * __Velasco, J.A__. & A. Herrel. 2007. Ecomorphology of the Anolis lizards of the Choco region in Colombia and comparisons with Greater Antillean ecomorphs. Biological Journal of Linnean Society 92: 29-39. 
 
-# Book chapters: 7
+# Book chapters: 8
 
+* Grupo de Investigación e Incidencia en la Biología del Cambio Climático (InBioCC): Aguirre-Liguori, Jonas A.; Álvarez-Filip, Lorenzo; Búrquez-Montijo, Alberto; Correa-Metrio, Alex; Cuervo-Robayo, Ángela P.; Domínguez, Omar7; Escobedo-Galván, Armando H.; Garrido-Garduño, Tania; Gómez-Ruiz, Pilar Angélica; Jiménez-García, Daniel; Lara-Resendiz, Rafael; Luna-Aranguré, Carlos; Martínez-Meyer, Enrique; Mendoza-González, Gabriela; Nava-Bolaños, Angela; Ochoa-Ochoa, Leticia M.; Prieto-Torres, David A.; Ramírez-Barahona, Santiago; Sáenz-Romero, Cuauhtémoc; __Velasco, Julián A__. 2023. Estado del cambio climático en México: Biodiversidad. En: Estado y perspectivas del cambio climático en México. Un punto de partida. Reporte técnico, Programa de Investigación en Cambio Climático, UNAM. 
+  
 * Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
 
 * Bermúdez-Rivas, C., Aguirre-Tapiero, M. P., __Velasco, J.A__. 2020. Capítulo VII. Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. En: Compilación oceanográfica de la Cuenca Pacífica Colombiana II. Pp 198-231. Dirección General Marítima. Bogotá, D.C. Editorial Dimar.
