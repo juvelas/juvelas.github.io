@@ -32,7 +32,7 @@ image:
 
 * Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881; https://doi.org/10.3390/d15070881 
 
-* Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, Julian A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology 29 (7): 4924-4938 https://doi.org/10.1111/gcb.16849
+* Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, J.A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology 29 (7): 4924-4938 https://doi.org/10.1111/gcb.16849
 
 * Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
@@ -204,7 +204,10 @@ https://doi.org/10.1111/geb.13617
 
 * __Velasco, J.A__., Quintero-Angel, A. & Gárces, M. F. 2008. Diversidad específica de Anfibios y Reptiles en zonas bajas del Pacífico del Valle del Cauca. Cespedesia 31 (86-87): 81-93. 
 
-# Pre-prints: 3
+# Pre-prints: 4
+
+* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. BioRxiv. https://www.biorxiv.org/content/10.1101/2023.11.11.566377v1
+
 * __Velasco, J.A__., Campillo-García, G., Pinto-Ledezma J., Flores-Villela, O. 2020. Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). BioRxiv. https://doi.org/10.1101/2020.06.17.157891
 
 * __Velasco, J.A__ & Gonzalez-Salazar, C. 2018. Akaike information criteria and predictive geographical accuracy are not related in ecological niche modeling. BioRxiv. doi: https://doi.org/10.1101/315101
