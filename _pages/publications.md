@@ -24,20 +24,21 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 54 in total
+# Peer-reviewed papers: 55 in total
 
 ### 2023
 
-* Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. In press.
+* Basanta, M. Delia; __Velasco, Julian A__; González-Salazar, C. 2023. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. In press.
 
-* Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881; https://doi.org/10.3390/d15070881 
+* Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. 2023, 15.3, e59233. https://escholarship.org/uc/item/78h3k1z4
+
+* Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881 https://doi.org/10.3390/d15070881 
 
 * Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, J.A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology 29 (7): 4924-4938 https://doi.org/10.1111/gcb.16849
 
 * Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
-* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha
-diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
+* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
 https://doi.org/10.1111/geb.13617
 
 
@@ -219,7 +220,6 @@ https://doi.org/10.1111/geb.13617
 
 * __Velasco, Julian A__; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. Submitted to Communications Biology.
 
-* Basanta, M. Delia; __Velasco, Julian A__; González-Salazar, C. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Submitted to Wildlife Biology.
 
 * Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Regional Environmental Change. 
 
