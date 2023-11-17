@@ -28,7 +28,7 @@ image:
 
 ### 2023
 
-* Basanta, M. Delia; __Velasco, Julian A__; González-Salazar, C. 2023. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. In press.
+* Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2023. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. In press.
 
 * Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. 2023, 15.3, e59233. https://escholarship.org/uc/item/78h3k1z4
 
