@@ -28,7 +28,7 @@ image:
 
 ### 2023
 
-* Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2023. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. In press.
+* Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2023. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. 204281. https://doi.org/10.1002/wlb3.01166 
 
 * Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. 2023, 15.3, e59233. https://escholarship.org/uc/item/78h3k1z4
 
@@ -217,13 +217,16 @@ https://doi.org/10.1111/geb.13617
 
 
 # Under review
-* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Submitted to Nature.
 
-* García-Rodríguez, Adrián, Bernd Lenzner, __Velasco, J.A__, Anna Schertler, Ali Omer, Hanno Seebens, César Capinha, Belinda Gallardo, Stefan Dullinger, & Franz Essl. The global status of alien vertebrates in mountains. To be submitted to Nature Ecology and Evolution.
+* Ochoa-Ochoa, L.M & __Velasco, J.A__ Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. 
+
+* __Velasco, J.A__; Gustavo Campillo; Oscar Flores-Villela. Trait-environment relationships in tropical lizard lineages. Under review in Ecography.
+
+* García-Rodríguez, Adrián, Bernd Lenzner, __Velasco, J.A__, Anna Schertler, Ali Omer, Hanno Seebens, César Capinha, Belinda Gallardo, Stefan Dullinger, & Franz Essl. The global status of alien vertebrates in mountains. Under review in Nature Ecology and Evolution.
+  
+* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Submitted to Nature Ecology and Evolution.
 
 * Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Regional Environmental Change.
-
-* __Velasco, J.A__; Gustavo Campillo; Oscar Flores-Villela. Trait-environment relationships in tropical lizard lineages. To be submitted to Ecography.
 
 * __Velasco, Julian A__; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. To be submitted to Global Ecology and Biogeography.
 
