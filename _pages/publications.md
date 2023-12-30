@@ -216,7 +216,7 @@ https://doi.org/10.1111/geb.13617
 * __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. doi: https://doi.org/10.1101/261867​
 
 
-# Under review
+# Under review / In preparation
 
 * Ochoa-Ochoa, L.M & __Velasco, J.A__ Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. 
 
