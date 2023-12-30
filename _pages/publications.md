@@ -223,6 +223,8 @@ https://doi.org/10.1111/geb.13617
 * __Velasco, J.A__; Gustavo Campillo; Oscar Flores-Villela. Trait-environment relationships in tropical lizard lineages. Under review in Ecography.
 
 * García-Rodríguez, Adrián, Bernd Lenzner, __Velasco, J.A__, Anna Schertler, Ali Omer, Hanno Seebens, César Capinha, Belinda Gallardo, Stefan Dullinger, & Franz Essl. The global status of alien vertebrates in mountains. Under review in Nature Ecology and Evolution.
+
+* Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). Under review in Ecology and Evolution.
   
 * Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Submitted to Nature Ecology and Evolution.
 
