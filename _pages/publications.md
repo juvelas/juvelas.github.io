@@ -218,7 +218,7 @@ https://doi.org/10.1111/geb.13617
 
 # Under review / In preparation
 
-* Ochoa-Ochoa, L.M & __Velasco, J.A__ Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. 
+* Ochoa-Ochoa, L.M & __Velasco, J.A__. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. 
 
 * __Velasco, J.A__; Gustavo Campillo; Oscar Flores-Villela. Trait-environment relationships in tropical lizard lineages. Under review in Ecography.
 
