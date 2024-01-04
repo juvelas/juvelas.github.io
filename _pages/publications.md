@@ -218,7 +218,9 @@ https://doi.org/10.1111/geb.13617
 
 # Under review / In preparation
 
-* Ochoa-Ochoa, L.M & __Velasco, J.A__. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. 
+* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America: Effects of climatic lag on amphibian assemblages across America. Under review in Revista Latinoamericana de Herpetología. *Corresponding author.
+
+* Ochoa-Ochoa, L.M & __Velasco, J.A__*. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. *Corresponding author.
 
 * __Velasco, J.A__; Gustavo Campillo; Oscar Flores-Villela. Trait-environment relationships in tropical lizard lineages. Under review in Ecography.
 
