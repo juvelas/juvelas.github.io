@@ -218,6 +218,8 @@ https://doi.org/10.1111/geb.13617
 
 # Under review / In preparation
 
+* Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. Environmental exposure of terrestrial biomes to global climate change: a niche-based approach. Under review in Global Change Biology.
+
 * Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America: Effects of climatic lag on amphibian assemblages across America. Under review in Revista Latinoamericana de Herpetología. *Corresponding author.
 
 * Ochoa-Ochoa, L.M & __Velasco, J.A__*. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. *Corresponding author.
