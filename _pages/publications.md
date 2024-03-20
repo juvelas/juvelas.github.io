@@ -27,7 +27,7 @@ image:
 # Peer-reviewed papers: 56 in total
 
 ## 2024
-* Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). 2024. Ecology and Evolution. In press.
+* Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). 2024. Ecology and Evolution. 14 (3) e11108. https://doi.org/10.1002/ece3.11108
 
 * Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2024. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. 204281. https://doi.org/10.1002/wlb3.01166 
   
