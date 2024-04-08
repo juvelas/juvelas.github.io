@@ -221,7 +221,11 @@ https://doi.org/10.1111/geb.13617
 
 # Under review / In preparation
 
+* __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Global Ecology and Biogeography.
+  
 * Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Global Change Biology.
+  
+* Ochoa-Ochoa, L.M., Mejía-Dominguez N.R., __Velasco, J.A__., Munguía-Carrara, M. Testing historical and climatic hypotheses across different dimensions of amphibian beta diversity in the continental Americas. Submitted to Ecology Letters.
   
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. Environmental exposure of terrestrial biomes to global climate change: a niche-based approach. Under review in Ecosphere.
 
@@ -237,7 +241,7 @@ https://doi.org/10.1111/geb.13617
 
 * Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Regional Environmental Change.
 
-* __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. To be submitted to Global Ecology and Biogeography.
+
 
 
 
