@@ -220,6 +220,7 @@ https://doi.org/10.1111/geb.13617
 
 
 # Under review / In preparation
+* García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. The latitudinal variation in amphibian speciation rates revisited. Submitted to PNAS.
 
 * __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Global Ecology and Biogeography.
   
