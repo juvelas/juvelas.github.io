@@ -27,6 +27,8 @@ image:
 # Peer-reviewed papers: 56 in total
 
 ## 2024
+* __Velasco, Julian A__; Luna-Aranguré, C.; Calderón-Bustamante, O.; Mendoza-Ponce, A.; Estrada, F.; González-Salazar, C. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. Plos One. Accepted.
+  
 * Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). 2024. Ecology and Evolution. 14 (3) e11108. https://doi.org/10.1002/ece3.11108
 
 * Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2024. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. 204281. https://doi.org/10.1002/wlb3.01166 
@@ -220,13 +222,11 @@ https://doi.org/10.1111/geb.13617
 
 
 # Under review / In preparation
-* García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. The latitudinal variation in amphibian speciation rates revisited. Submitted to PNAS.
+* García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. The latitudinal variation in amphibian speciation rates revisited. Submitted to Communications Biology.
 
-* __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Global Ecology and Biogeography.
+* __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Ecology and Evolution.
   
-* Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Global Change Biology.
-  
-* Ochoa-Ochoa, L.M., Mejía-Dominguez N.R., __Velasco, J.A__., Munguía-Carrara, M. Testing historical and climatic hypotheses across different dimensions of amphibian beta diversity in the continental Americas. Submitted to Ecology Letters.
+* Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Journal of Biogeography.
   
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. Environmental exposure of terrestrial biomes to global climate change: a niche-based approach. Under review in Ecosphere.
 
@@ -234,13 +234,10 @@ https://doi.org/10.1111/geb.13617
 
 * Ochoa-Ochoa, L.M & __Velasco, J.A__*. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. *Corresponding author.
 
-* __Velasco, J.A__*; Gustavo Campillo; Oscar Flores-Villela. Trait-environment relationships in tropical lizard lineages. Under review in Ecography. *Corresponding author.
-
 * García-Rodríguez, Adrián, Bernd Lenzner, __Velasco, J.A__, Anna Schertler, Ali Omer, Hanno Seebens, César Capinha, Belinda Gallardo, Stefan Dullinger, & Franz Essl. The global status of alien vertebrates in mountains. Submitted to Nature Communications.
 
 * Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Submitted to Nature Communications.
 
-* Muñoz-Sánchez, R., __Velasco, J.A__, Estrada, F. & Calderón-Bustamante. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Submitted to Regional Environmental Change.
 
 
 
