@@ -27,6 +27,11 @@ image:
 # Peer-reviewed papers: 56 in total
 
 ## 2024
+
+* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. Revista Latinoamericana de Herpetología. *Corresponding author. Accepted.
+
+* Ochoa-Ochoa, L.M & __Velasco, J.A__*. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Geography and Sustainability. *Corresponding author. Accepted pending minor changes.
+
 * __Velasco, Julian A__; Luna-Aranguré, C.; Calderón-Bustamante, O.; Mendoza-Ponce, A.; Estrada, F.; González-Salazar, C. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. Plos One. Accepted.
   
 * Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). 2024. Ecology and Evolution. 14 (3) e11108. https://doi.org/10.1002/ece3.11108
@@ -223,16 +228,14 @@ https://doi.org/10.1111/geb.13617
 
 # Under review / In preparation
 * García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. The latitudinal variation in amphibian speciation rates revisited. Submitted to Communications Biology.
+  
+* Alfonso-Velasco, S., Guarnizo, C., Castañeda, M. R., __Velasco, Julian A__. Predator's Gaze: Potential Predation Pressure as a modulator of prey assemblages’ morphology. Submitted to Global Ecology and Biogeography.
 
 * __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Ecology and Evolution.
   
 * Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Journal of Biogeography.
   
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. Environmental exposure of terrestrial biomes to global climate change: a niche-based approach. Under review in Ecosphere.
-
-* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America: Effects of climatic lag on amphibian assemblages across America. Under review in Revista Latinoamericana de Herpetología. *Corresponding author.
-
-* Ochoa-Ochoa, L.M & __Velasco, J.A__*. Long-term stability in Protected-Areas? A vision from the New World Amphibians. Under review in Geography and Sustainability. *Corresponding author.
 
 * García-Rodríguez, Adrián, Bernd Lenzner, __Velasco, J.A__, Anna Schertler, Ali Omer, Hanno Seebens, César Capinha, Belinda Gallardo, Stefan Dullinger, & Franz Essl. The global status of alien vertebrates in mountains. Submitted to Nature Communications.
 
