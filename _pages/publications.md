@@ -28,12 +28,14 @@ image:
 
 ## 2025
 
-* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología. *Corresponding author.
-  
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere.
+  
+* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications.
+
+* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología. *Corresponding author.
 
 * García-Rodríguez, A., Lenzner, B., __Velasco, J.A__, Schertler, A., Omer, A., Seebens, H., Capinha, C., Gallardo, B., Dullinger, S. & Essl, F. 2025. The global status of alien vertebrates in mountains. Nature Communications. 16, 1977 https://doi.org/10.1038/s41467-025-57214-w
-
+  
 ## 2024
 * Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. *Corresponding author. https://doi.org/10.1016/j.geosus.2024.09.003 
 
@@ -240,7 +242,6 @@ https://doi.org/10.1111/geb.13617
   
 * Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Journal of Biogeography.
   
-  * Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2023. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Submitted to Nature Communications.
 
 
 
