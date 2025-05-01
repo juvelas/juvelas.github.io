@@ -24,9 +24,11 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 61 in total
+# Peer-reviewed papers: 62 in total
 
 ## 2025
+
+* García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. The latitudinal variation in amphibian speciation rates revisited. Submitted to Communications Biology.
 
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere.
   
@@ -234,14 +236,17 @@ https://doi.org/10.1111/geb.13617
 
 
 # Under review / In preparation
-* García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. The latitudinal variation in amphibian speciation rates revisited. Submitted to Communications Biology.
+
+* Ramirez-Ramirez, J., __Velasco, Julian A__., Reeder, T. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Submitted to Ecology and Evolution.
+
+* Torres-Romero, E. J., Eppley, T. M., Allen, M. L., Penteriani, V., Ripple, W. J., O'Bryan, C.J., __Velasco, Julian A__. Recent acceleration of climate change increases extinction risk of the world’s carnivores. Submitted to Global Change Biology.
   
-* Alfonso-Velasco, S., Guarnizo, C., Castañeda, M. R., __Velasco, Julian A__. Predator's Gaze: Potential Predation Pressure as a modulator of prey assemblages’ morphology. Submitted to Global Ecology and Biogeography.
+* Toro-Cardona, F., __Velasco, Julian A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra Vergara, J. L.
+Climatic niche properties shape treefrog diversity. Submitted to Global Ecology and Biogeography.
 
 * __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Ecology and Evolution.
   
 * Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Journal of Biogeography.
-  
 
 
 
