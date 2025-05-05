@@ -28,7 +28,7 @@ image:
 
 ## 2025
 
-* García-Rodríguez, A., Villalobos, F.,__Velasco, Julian A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology.
+* García-Rodríguez, A., Villalobos, F.,__Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology.
 
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere.
   
