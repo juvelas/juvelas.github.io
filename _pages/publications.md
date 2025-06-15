@@ -24,13 +24,15 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 62 in total
+# Peer-reviewed papers: 63 in total
 
 ## 2025
 
-* García-Rodríguez, A., Villalobos, F.,__Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology.
+* Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography.
 
-* Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere.
+* García-Rodríguez, A., Villalobos, F.,__Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
+
+* Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
   
 * Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications.
 
@@ -242,11 +244,10 @@ https://doi.org/10.1111/geb.13617
 * Torres-Romero, E. J., Eppley, T. M., Allen, M. L., Penteriani, V., Ripple, W. J., O'Bryan, C.J., __Velasco, Julian A__. Recent acceleration of climate change increases extinction risk of the world’s carnivores. Submitted to Global Change Biology.
   
 * Toro-Cardona, F., __Velasco, Julian A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra Vergara, J. L.
-Climatic niche properties shape treefrog diversity. Submitted to Global Ecology and Biogeography.
+Climatic niche properties shape treefrog diversity. Submitted to Ecography.
 
 * __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Ecology and Evolution.
   
-* Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Submitted to Journal of Biogeography.
 
 
 
