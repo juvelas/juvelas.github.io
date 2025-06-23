@@ -24,9 +24,11 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 63 in total
+# Peer-reviewed papers: 64 in total
 
 ## 2025
+
+* Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution.
 
 * Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography.
 
@@ -239,12 +241,10 @@ https://doi.org/10.1111/geb.13617
 
 # Under review / In preparation
 
-* Ramirez-Ramirez, J., __Velasco, Julian A__., Reeder, T. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Submitted to Ecology and Evolution.
-
 * Torres-Romero, E. J., Eppley, T. M., Allen, M. L., Penteriani, V., Ripple, W. J., O'Bryan, C.J., __Velasco, Julian A__. Recent acceleration of climate change increases extinction risk of the world’s carnivores. Submitted to Global Change Biology.
   
 * Toro-Cardona, F., __Velasco, Julian A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra Vergara, J. L.
-Climatic niche properties shape treefrog diversity. Submitted to Ecography.
+Climatic niche properties shape treefrog diversity. Submitted to Plos One.
 
 * __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Ecology and Evolution.
   
