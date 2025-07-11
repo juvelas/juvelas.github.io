@@ -28,22 +28,22 @@ image:
 
 ## 2025
 
-* Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution.
+* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications.
 
-* Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography.
+* Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution 15:e71716 https://doi.org/10.1002/ece3.71716 
+
+* Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography e70007 https://doi.org/10.1111/jbi.70007
 
 * García-Rodríguez, A., Villalobos, F.,__Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
 
 * Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
   
-* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications.
-
-* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología. *Corresponding author.
+* Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902 *Corresponding author.
 
 * García-Rodríguez, A., Lenzner, B., __Velasco, J.A__, Schertler, A., Omer, A., Seebens, H., Capinha, C., Gallardo, B., Dullinger, S. & Essl, F. 2025. The global status of alien vertebrates in mountains. Nature Communications. 16, 1977 https://doi.org/10.1038/s41467-025-57214-w
   
 ## 2024
-* Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. *Corresponding author. https://doi.org/10.1016/j.geosus.2024.09.003 
+* Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. https://doi.org/10.1016/j.geosus.2024.09.003 *Corresponding author.
 
 * __Velasco, Julian A__; Luna-Aranguré, C.; Calderón-Bustamante, O.; Mendoza-Ponce, A.; Estrada, F.; González-Salazar, C. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. 2024. PloS one, 19(10), e0308522. https://doi.org/10.1371/journal.pone.0308522
   
@@ -61,8 +61,7 @@ image:
 
 * Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
-* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 *__corresponding author__ 
-https://doi.org/10.1111/geb.13617
+* Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 https://doi.org/10.1111/geb.13617 *corresponding author
 
 
 ### 2022
@@ -89,7 +88,7 @@ https://doi.org/10.1111/geb.13617
 
 * García-Rodríguez, A., Martínez, P.A., Oliveira, B.F., __Velasco, J.A__., Pyron, A & Costa, G.C. 2021. Amphibian speciation rates support a general role of mountains as biodiversity pumps. The American Naturalist. 198: E68-E79. https://doi.org/10.1086/715500
 
-* Tepos-Ramírez, M., Flores-Villela, O., __Velasco, J.A__., Pedraza-Lara, C., García-Rubi, O.R & Jadin, R.C. 2021. Molecular Phylogenetics and Morphometrics Reveal a New Endemic Jumping Pitviper (Serpentes: Viperidae: Metlapilcoatlus) from the Sierra Madre Oriental of Mexico. Journal of Herpetology 55: 181–191.
+* Tepos-Ramírez, M., Flores-Villela, O., __Velasco, J.A__., Pedraza-Lara, C., García-Rubi, O.R & Jadin, R.C. 2021. Molecular Phylogenetics and Morphometrics Reveal a New Endemic Jumping Pitviper (Serpentes: Viperidae: Metlapilcoatlus) from the Sierra Madre Oriental of Mexico. Journal of Herpetology 55: 181–191. https://doi.org/10.1670/20-028
 
 * Haro, A., Mendoza-Ponce, A., Calderón, O., __Velasco, J.A__., Estrada, F. 2021. Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 10 June 2021 https://doi.org/10.3389/fclim.2021.674693
 
