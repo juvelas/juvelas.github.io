@@ -28,7 +28,9 @@ image:
 
 ## 2025
 
-* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications.
+* Gagnon, É., Castelblanco‐Martínez, N., Ramos, E. A., Aguilera‐Miranda, I. D., __Velasco, J.A__., Brady, B., & Martin, J. G. (2025). Multi‐Scale Habitat Selection of Greater Caribbean Manatees in Sian Ka'an Biosphere Reserve, Mexico. Marine Mammal Science, 42:e70072 https://doi.org/10.1111/mms.70072
+
+* Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications 16: 7894 https://doi.org/10.1038/s41467-025-62124-y
 
 * Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution 15:e71716 https://doi.org/10.1002/ece3.71716 
 
