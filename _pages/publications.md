@@ -28,9 +28,10 @@ image:
 
 ## 2026
 
-* Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, F., Amador, L., Guayasamin, J.M. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. 2026. ZooKeys. Accepted.
+* Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, F., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. ZooKeys. Accepted.
 
-* Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography e70218. https://doi-org.pbidi.unam.mx:2443/10.1111/geb.70218.
+* Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography e70218. https://doi-org.pbidi.unam.mx:2443/10.1111/geb.70218.
+*Corresponding author.
 
 * Sánchez, R. M., __Velasco, J.A__., Porrúa, F. E., & Bustamante, O. C. 2026. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Mitigation and Adaptation Strategies for Global Change, 31(3), 1-20. https://doi.org/10.1007/s11027-025-10282-1
 
