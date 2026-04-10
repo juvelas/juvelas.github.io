@@ -28,6 +28,8 @@ image:
 
 ## 2026
 
+* Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management. Accepted pending minor revisions.
+  
 * Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, F., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. ZooKeys. Accepted.
 
 * Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org./10.1111/geb.70218
