@@ -24,13 +24,18 @@ image:
 
 [All publications can be downloaded from here](https://www.dropbox.com/sh/5pta3t3yxbty3c9/AABSgYgAKOQMjRxzQY66C6UMa?dl=0)
 
-# Peer-reviewed papers: 69 in total
+# Peer-reviewed papers: 70 in total
 
 ## 2026
 
-* Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management. Accepted pending minor revisions.
+* Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
+Climatic niche properties shape treefrog diversity. Plos One. Accepted.
+
+* Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management. In press
   
-* Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, F., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. ZooKeys. Accepted.
+* Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. ZooKeys. In press
+
+* Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1): 00-00. https://cuadernosdeherpetologia.com/index.php/CdH/article/view/384
 
 * Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org./10.1111/geb.70218
 *Corresponding author.
@@ -252,12 +257,6 @@ image:
 
 
 # Under review / In preparation
-
-* Torres-Romero, E. J., Eppley, T. M., Allen, M. L., Penteriani, V., Ripple, W. J., O'Bryan, C.J., __Velasco, Julian A__. Recent acceleration of climate change increases extinction risk of the world’s carnivores. Submitted to Global Change Biology.
-  
-* Toro-Cardona, F., __Velasco, Julian A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra Vergara, J. L.
-Climatic niche properties shape treefrog diversity. Submitted to Plos One.
-
 * __Velasco, Julian A__*; Luna-Aranguré, C.; Vásquez-Restrepo, J.D.; Ibarra-Reyes, A. A.; González-Salazar, C.; Calderón-Bustamante, O.; Estrada, F.; Ochoa-Ochoa, L.M.; García-Rodríguez, A. Integrating paleoclimatic and evolutionary dynamics to improve future projections of biodiversity. *Corresponding author. Submitted to Ecology and Evolution.
   
 
