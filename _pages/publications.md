@@ -24,17 +24,19 @@ image:
 
 [All publications can be downloaded from here](https://drive.google.com/drive/folders/1jysuUGt8P8r7SKE1EW4vboX3iEcWRNI7?usp=sharing)
 
-# Peer-reviewed papers: 70 in total
+# Peer-reviewed papers: 72 in total
 
 ## 2026
 
-* Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
-Climatic niche properties shape treefrog diversity. Plos One. Accepted.
-
-* Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management. In press
+* Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005 doi:10.70322/ecoldivers.2026.10005
   
-* Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. ZooKeys. In press
+* Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
+Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. https://doi.org/10.1371/journal.pone.0348700
 
+* Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. PeerJ 14:e21165 http://doi.org/10.7717/peerj.21165
+  
+* Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management 405 (2026) 129768 https://doi.org/10.1016/j.jenvman.2026.129768
+  
 * Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1): 00-00. https://cuadernosdeherpetologia.com/index.php/CdH/article/view/384
 
 * Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org./10.1111/geb.70218
