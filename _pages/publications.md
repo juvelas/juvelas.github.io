@@ -28,6 +28,8 @@ image:
 
 ## 2026
 
+* Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution XX-XX
+  
 * Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005 doi:10.70322/ecoldivers.2026.10005
   
 * Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
