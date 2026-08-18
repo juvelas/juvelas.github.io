@@ -24,10 +24,12 @@ image:
 
 [All publications can be downloaded from here](https://drive.google.com/drive/folders/1jysuUGt8P8r7SKE1EW4vboX3iEcWRNI7?usp=sharing)
 
-# Peer-reviewed papers: 72 in total
+# Peer-reviewed papers: 74 in total
 
 ## 2026
 
+* Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__*. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Scientific Reports XX-XX
+  
 * Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution XX-XX
   
 * Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005 doi:10.70322/ecoldivers.2026.10005
