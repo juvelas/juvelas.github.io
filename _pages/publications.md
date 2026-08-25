@@ -50,6 +50,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 ## 2025
 
+* __Velasco, J.A__*., Vásquez-Restrepo, J.D., Salazar, J.C. 2025. The Climatic Niche Evolution of South American Squamates (Reptilia: Squamata). In: Urbina-Cardona, J.N., Navas, C.A., Catenazzi, A., Piantoni, C. (eds) Andean Herpetofauna. Sustainable Development Goals Series. Springer, Cham. pp 105-116. https://doi.org/10.1007/978-3-032-00074-3_6
+
 * Gagnon, É., Castelblanco‐Martínez, N., Ramos, E. A., Aguilera‐Miranda, I. D., __Velasco, J.A__., Brady, B., & Martin, J. G. (2025). Multi‐Scale Habitat Selection of Greater Caribbean Manatees in Sian Ka'an Biosphere Reserve, Mexico. Marine Mammal Science, 42:e70072 https://doi.org/10.1111/mms.70072
 
 * Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications 16: 7894 https://doi.org/10.1038/s41467-025-62124-y
@@ -79,6 +81,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 * Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. 2023, 15.3, e59233. https://escholarship.org/uc/item/78h3k1z4
 
+* Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
+
 * Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881 https://doi.org/10.3390/d15070881 
 
 * Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, J.A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology 29 (7): 4924-4938 https://doi.org/10.1111/gcb.16849
@@ -86,6 +90,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 * Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
 * Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 https://doi.org/10.1111/geb.13617 *corresponding author
+
+* Grupo de Investigación e Incidencia en la Biología del Cambio Climático (InBioCC): Aguirre-Liguori, Jonas A.; Álvarez-Filip, Lorenzo; Búrquez-Montijo, Alberto; Correa-Metrio, Alex; Cuervo-Robayo, Ángela P.; Domínguez, Omar; Escobedo-Galván, Armando H.; Garrido-Garduño, Tania; Gómez-Ruiz, Pilar Angélica; Jiménez-García, Daniel; Lara-Resendiz, Rafael; Luna-Aranguré, Carlos; Martínez-Meyer, Enrique; Mendoza-González, Gabriela; Nava-Bolaños, Angela; Ochoa-Ochoa, Leticia M.; Prieto-Torres, David A.; Ramírez-Barahona, Santiago; Sáenz-Romero, Cuauhtémoc; __Velasco, Julián A__. 2023. Estado del cambio climático en México: Biodiversidad. En: Estado y perspectivas del cambio climático en México. Un punto de partida. Reporte técnico. Programa de Investigación en Cambio Climático, UNAM. 
 
 
 ### 2022
@@ -132,6 +138,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 * Estrada, F., __Velasco, J.A__., Martínez-Arroyo, A & Calderón-Bustamante, O. 2020. An analysis of current sustainability of Mexican cities and their exposure to climate change. Frontiers in Environmental Science. doi: 10.3389/fenvs.2020.00025
 
 * __Velasco J.A__., Villalobos, F., Diniz-Filho, JAF., Poe, S., Flores-Villela, O. 2020. Macroecology and macroevolution of body size in Anolis lizards. Ecography 43: 812-822. doi: https://doi.org/10.1111/ecog.04583.
+  
+* Bermúdez-Rivas, C., Aguirre-Tapiero, M. P., __Velasco, J.A__. 2020. Capítulo VII. Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. En: Compilación oceanográfica de la Cuenca Pacífica Colombiana II. Pp 198-231. Dirección General Marítima. Bogotá, D.C. Editorial Dimar.
 
 ### 2019
 * Ramírez-Barrera S.M, __Velasco J.A__., Orozco-Téllez T., Vázquez-López, A. M. & Hernández-Baños, B. 2019. What drives genetic and phenotypic divergence in the red-crowned ant-tanager (Habia rubica: Aves: Cardinalidae), a polytypic species. Ecology and Evolution 9: 12339-12352.
@@ -158,6 +166,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 * Poe, S., Nieto-Montes de Oca, A., Torres-Carvajal, O., Tuett, B., Kohler, G., Ayala, F., __Velasco, J.A__., and Latella, I. 2018. Comparative evolution of an archetypal adaptive radiation: Innovation and opportunity in Anolis lizards. The American Naturalist. 191: E185-E194.
 
 * __Velasco, J.A__., Villalobos, F., Diniz-Filho, JAF., Algar, A.C., Flores-Villela, O., Kohler, G., Poe, S., Martínez-Meyer, E. 2018. Climatic and evolutionary factors shaping geographical gradients of species richness in Anolis lizards. Biological Journal of the Linnean Society 123: 615-627.
+  
+*  __Velasco, J.A__., 2018. Are historical biogeographical events able to promote biological diversification. In: Pure and Applied Biogeography. InTechOpen. pp. 2-17.
 
 ### 2017
 * Gómez-Hoyos, D.A., Rios-Franco, C.A., Vanegas-Guerrero, J., __Velasco, J.A__., and Gonzales-Maya, J. 2017. Estado y prioridades de conservación de los anfibios del departamento del Quindío, Colombia. Arxius of Miscellania Zoologica 15: 207-223.
@@ -178,6 +188,12 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 * Ayala-Varela, F., __Velasco, J.A__., Calderon-Espinosa, M., Arteaga, A.F., Sagredo, Y., Valverde, S. 2015. First records of Anolis ventrimaculatus Boulenger 1911 (Squamata: Iguanidae) in Ecuador. Amphibian and Reptile Conservation 8 (1): 136-140.
 
+* __Velasco, J.A__. 2015. Anolis calimae Ayala, Harris and Williams 1983. Pp. 52-54. En: Morales- Betancourt, M. A., C. A. Lasso, V. P. Paez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
+
+* Bolivar-García, W., Gómez, A., __Velasco, J.A__. 2015. Enyalioides oshaughnessyi Boulanger 1881. Pp. 80- 81. En: Morales-Betancourt, M. A., C. A. Lasso, V. P. Páez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
+
+* Bolivar-García, W., Gomez, A., __Velasco, J.A__. 2015. Saphenophis sneiderni Myers 1973. Pp. 104-105. En: Morales-Betancourt, M. A., C. A. Lasso, V. P. Paez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
+  
 ### 2014-2007
 * Gómez-Hoyos, D., Lopez-Garcia, M. M., Soto-Garzon, C. A., Mendez-Rojas, D. M., Kahn, T. R & __Velasco, J.A__. 2014. Geographic variation in the diet of the Cauca Poison Frog Andinobates bombetes (Anura: Dendrobatidae) in the Andes of Colombia. Herpetology Notes 7: 559-564.
 
@@ -186,6 +202,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 * Díaz-Gutiérrez, N., Vargas-Salinas, F., Rivera-Correa, M. Rojas-Morales, J. A. Escobar-Lasso, S. __Velasco, J.A__. Gutiérrez-Cárdenas, P.D.A & Amezquita, A. 2013. Description of the previously unknown advertisement call and tadpole of the Colombian endemic glassfrog Centrolene savagei (Anura, Cen- trolenidae). Zootaxa 3686 (2): 289-296. 
 
 * Escobedo-Galvan, A. H., Cupul-Magana, F. G. & __Velasco, J.A__. 2011. Misconceptions about distri- bution of Caiman crocodilus chiapasius and C. crocodilus fuscus (Reptilia: Crocodylia: Alligatoridae). Zootaxa 3015: 66-68.
+  
+* Urbina-Cardona J N, Burrowes P. A, Osorno M, Crawford A. J, __Velasco, J.A__., Flechas S. A, Vargas- Salinas F, Luna-Mora V. F, Navas C. A, Guayara-Barragán M, Castro-Herrera F, Bolivar-G W, y Gutiérrez-Cárdenas, P.D.A. 2011. Prioridades en la conservación de anfibios ante su crisis global: Hacia la construcción del Plan de Accion para la Conservación de los anfibios de Colombia. Capítulo Z6. Pp 10-19. En: Asociacion Colombiana de Zoología (Ed.). 2011. Creando un clima para el cambio: La biodiversidad, servicios para la humanidad. III Congreso Colombiano de Zoología, Libro de memorias. Asociación Colombiana de Zoología. Medellín-Antioquia. 57 pgs. www.aczcolombia.org. ISBN – 978-958-57015-1-9.
 
 * __Velasco, J.A__., P. Gutierrez, A. Quintero. 2010. A new species of Anolis of the aequatorialis group (Squamata: Iguania) from the central Andes of Colombia. Herpetological Journal. 20: 231-236.
 
@@ -194,24 +212,6 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 * Poe, S., __Velasco, J.A__., K. Miyata & E. E. Williams. 2009. New or problematic Anolis from Colombia VIII: Descriptions of two nomen nudem species. Breviora Number 516: 1-16.
 
 * __Velasco, J.A__. & A. Herrel. 2007. Ecomorphology of the Anolis lizards of the Choco region in Colombia and comparisons with Greater Antillean ecomorphs. Biological Journal of Linnean Society 92: 29-39. 
-
-# Book chapters: 8
-
-* Grupo de Investigación e Incidencia en la Biología del Cambio Climático (InBioCC): Aguirre-Liguori, Jonas A.; Álvarez-Filip, Lorenzo; Búrquez-Montijo, Alberto; Correa-Metrio, Alex; Cuervo-Robayo, Ángela P.; Domínguez, Omar; Escobedo-Galván, Armando H.; Garrido-Garduño, Tania; Gómez-Ruiz, Pilar Angélica; Jiménez-García, Daniel; Lara-Resendiz, Rafael; Luna-Aranguré, Carlos; Martínez-Meyer, Enrique; Mendoza-González, Gabriela; Nava-Bolaños, Angela; Ochoa-Ochoa, Leticia M.; Prieto-Torres, David A.; Ramírez-Barahona, Santiago; Sáenz-Romero, Cuauhtémoc; __Velasco, Julián A__. 2023. Estado del cambio climático en México: Biodiversidad. En: Estado y perspectivas del cambio climático en México. Un punto de partida. Reporte técnico, Programa de Investigación en Cambio Climático, UNAM. 
-  
-* Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
-
-* Bermúdez-Rivas, C., Aguirre-Tapiero, M. P., __Velasco, J.A__. 2020. Capítulo VII. Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. En: Compilación oceanográfica de la Cuenca Pacífica Colombiana II. Pp 198-231. Dirección General Marítima. Bogotá, D.C. Editorial Dimar.
-
-* __Velasco, J.A__., 2018. Are historical biogeographical events able to promote biological diversification. In: Pure and Applied Biogeography. InTechOpen. pp. 2-17.
-
-* __Velasco, J.A__. 2015. Anolis calimae Ayala, Harris and Williams 1983. Pp. 52-54. En: Morales- Betancourt, M. A., C. A. Lasso, V. P. Paez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
-
-* Bolivar-García, W., Gómez, A., __Velasco, J.A__. 2015. Enyalioides oshaughnessyi Boulanger 1881. Pp. 80- 81. En: Morales-Betancourt, M. A., C. A. Lasso, V. P. Páez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
-
-* Bolivar-García, W., Gomez, A., __Velasco, J.A__. 2015. Saphenophis sneiderni Myers 1973. Pp. 104-105. En: Morales-Betancourt, M. A., C. A. Lasso, V. P. Paez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
-
-* Urbina-Cardona J N, Burrowes P. A, Osorno M, Crawford A. J, __Velasco, J.A__., Flechas S. A, Vargas- Salinas F, Luna-Mora V. F, Navas C. A, Guayara-Barragán M, Castro-Herrera F, Bolivar-G W, y Gutiérrez-Cárdenas, P.D.A. 2011. Prioridades en la conservación de anfibios ante su crisis global: Hacia la construcción del Plan de Accion para la Conservación de los anfibios de Colombia. Capítulo Z6. Pp 10-19. En: Asociacion Colombiana de Zoología (Ed.). 2011. Creando un clima para el cambio: La biodiversidad, servicios para la humanidad. III Congreso Colombiano de Zoología, Libro de memorias. Asociación Colombiana de Zoología. Medellín-Antioquia. 57 pgs. www.aczcolombia.org. ISBN – 978-958-57015-1-9.
 
 # Books: 8
 * Moreno Arias, R.A., __Velasco, J.A__., Urbina Cardona, J.N., Cárdenas-Arevalo, G., Medina Rangel, G.F., Gutiérrez Cárdenas, P.D.A., Olaya-Rodríguez, M.H., Cruz-Rodríguez, C. & Noguera-Urbano, E. 2021. Atlas de la biodiversidad de Colombia: Anolis. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt., Bogotá D. C., Colombia. 71 pp.
