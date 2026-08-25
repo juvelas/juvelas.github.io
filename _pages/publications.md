@@ -240,7 +240,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 11. Roncancio-Duque, N; V. Rojas-Díaz; C. A. Ríos-Franco; C. Gómez-Posada; C. Gutiérrez-Chacón; P. A. Giraldo-Ramírez; __Julián A. Velasco__; P. Franco. 2012. Plan de conservación y manejo d[...]
 
-10. Saavedra-Rodríguez, C; A. Karin Oshbar; V. Rojas-Díaz; N. Roncancio-Duque; C. A. Ríos-Franco; C. Gutiérrez-Chacón; C. Gómez-Posada; P. A. Giraldo-Ramírez; __Julián A. Velasco__; P. Franco.[...]
+10. Saavedra-Rodríguez, C; A. Karin Oshbar; V. Rojas-Díaz; N. Roncancio-Duque; C. A. Ríos-Franco; C. Gutiérrez-Chacón; C. Gómez-Posada; P. A. Giraldo-Ramírez; __Julián A. Velasco__; P. Franco.[...] 
 
 9. Escobedo-Galvan, A. H., Cupul-Magana, F. G. & __Velasco, J.A__. 2011. Misconceptions about distri- bution of Caiman crocodilus chiapasius and C. crocodilus fuscus (Reptilia: Crocodylia: Alligatorid[...]
   
