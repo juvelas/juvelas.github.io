@@ -115,6 +115,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 66. Cruz-Elizalde, R., Ramírez-Bautista, A., Lozano, A.,  __Velasco, J. A__., Octavio-Aguilar, P., Berriozabal-Islas, C. 2022. Variation in size and shape sexual dimorphism in the Sceloporus scalaris species group (Squamata: Phrynosomatidae) from the Transvolcanic Belt of Mexico. Biological Journal of the Linnean Society. 135: 499-517 https://academic.oup.com/biolinnean/article-abstract/135/3/499/6494413
 
 ### 2021 
+
 65. Castelblanco-Martínez, D.N., Arévalo-González, G.K., Aguilar-Rodríguez, B., __Velasco, J.A__., Moreno-Bernal, J.W., Restrepo, S., Moreno-Arias, R. 2021. Uncontrolled invasive hippos in the Magdalena River basin: An emergent threat to Antillean manatees in Colombia? Sirenews 73: 17-21.  https://mission.cmaquarium.org/app/uploads/2021/05/Sirenews-73-April2021-update.pdf
  
 64. Moreno Arias, R.A., __Velasco, J.A__., Urbina Cardona, J.N., Cárdenas-Arevalo, G., Medina Rangel, G.F., Gutiérrez Cárdenas, P.D.A., Olaya-Rodríguez, M.H., Cruz-Rodríguez, C. & Noguera-Urbano, E. 2021. Atlas de la biodiversidad de Colombia: Anolis. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt., Bogotá D. C., Colombia. 71 pp.
@@ -138,6 +139,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 55. Castelblanco-Martínez, D. M., Moreno-Arias, R., __Velasco, J.A__., Moreno-Bernal, J., Restrepo, S., Noguera-Urbano, E., Baptiste, M. P., García-Loaiza, L. M., Jímenez, G. L.  2021. A hippo in the room: Predicting the persistence and dispersion of an invasive mega-vertebrate in Colombia, South America. Biological Conservation 253: 108923​.
 
 ### 2020
+
 54. __Velasco, J.A__. 2020. When macroecology meets atmospheric sciences…Atmósfera. DOI: https://doi.org/10.20937/ATM.52896.
 
 53. Mejía-Domínguez, N.R., Ochoa-Ochoa, L.M., __Velasco, J.A__. 2020. Dinámica de metacomunidades en ecosistemas fragmentados. Ciencia. Oct-Dic. 2020. 71(4): 11-17.  https://www.revistaciencia.amc.edu.mx/online/X3_71_4_1301_Metacomunidades.pdf
@@ -155,6 +157,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 47. __Velasco, J.A__., Campillo-García, G., Pinto-Ledezma J., Flores-Villela, O. 2020. Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). BioRxiv. https://doi.org/10.1101/2020.06.17.157891
 
 ### 2019
+
 46. Ramírez-Barrera S.M, __Velasco J.A__., Orozco-Téllez T., Vázquez-López, A. M. & Hernández-Baños, B. 2019. What drives genetic and phenotypic divergence in the red-crowned ant-tanager (Habia rubica: Aves: Cardinalidae), a polytypic species. Ecology and Evolution 9: 12339-12352.
 
 45. __Velasco, J.A__., Poe, S., González-Salazar, C. & Flores-Villela. 2019. Solitary ecology as a phenomenon extending beyond insular systems: Exaptive evolution in Anolis lizards. Biology Letters 15: 20190056.
@@ -166,6 +169,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 42. __Velasco, J.A__ & González-Salazar, C. 2019. Akaike information criterion should not be a “test” of geographical prediction accuracy in ecological niche modelling. Ecological Informatics 51: 25-32. https://doi.org/10.1016/j.ecoinf.2019.02.005
 
 ### 2018
+
 41. __Velasco, J.A__ & Gonzalez-Salazar, C. 2018. Akaike information criteria and predictive geographical accuracy are not related in ecological niche modeling. BioRxiv. doi: https://doi.org/10.1101/315101
 
 40. __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. doi: https://doi.org/10.1101/261867
@@ -187,6 +191,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 32.  __Velasco, J.A__., 2018. Are historical biogeographical events able to promote biological diversification. In: Pure and Applied Biogeography. InTechOpen. pp. 2-17.
 
 ### 2017
+
 31. Martínez-Meyer, E., A. González-Bernal, __J. A. Velasco__, T. L. Swetnam, Z. Y. González-Saucedo, J. Servín, C. A. López González, N. E. Lara Díaz, C. Aguilar Miguel, C. Chávez García, and J. K. Oakleaf. 2017. Mexican wolf habitat suitability analysis in historical range in the Southwestern US and Mexico. Final Report. U.S. Fish and Wildlife Service, Region 2, Albuquerque, New Mexico, USA. April 2017. 86 pp
   
 30. Gómez-Hoyos, D.A., Rios-Franco, C.A., Vanegas-Guerrero, J., __Velasco, J.A__., and Gonzales-Maya, J. 2017. Estado y prioridades de conservación de los anfibios del departamento del Quindío, Colombia. Arxius of Miscellania Zoologica 15: 207-223.
@@ -200,9 +205,11 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 26. * Guevara-Molina, S. C. & __Velasco, J.A__. 2017. Strabomantiz ruizi (Lynch 1981) Cátalogo de Anfibios y Reptiles de Colombia. 3 (2): 50-55.
 
 ### 2016
+
 25. __Velasco, J.A__., E. Martínez-Meyer., O. Flores-Villela., A. García-Aguayo., A. C. Algar and G. Kohler. 2016. Climatic niche attributes and diversification in Anolis lizards. Journal of Biogeography. 43: 134–144.
 
 ### 2015
+
 24. Escobedo-Galván AH, __Velasco, J.A__., JF Gonzalez-Maya & A Resetar. 2015. Morphological analysis of the Rio Apaporis Caiman (Reptilia, Crocodylia, Alligatoridae). Zootaxa 2015 (3): 541-554
 
 23. Gómez-Hoyos, D. A., Escobar-Lasso, S., Suarez-Joaqui, T., & __Velasco, J.A__., 2015. Predation on the bush anole Polychrus gutturosus by the parrot snake Leptophis ahaetulla, with a new record of the bush anole for the Gorgona Island National Natural Park, Colombia. Herpetology Notes, 8, 297-301.
@@ -216,6 +223,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 19. Bolivar-García, W., Gomez, A., __Velasco, J.A__. 2015. Saphenophis sneiderni Myers 1973. Pp. 104-105. En: Morales-Betancourt, M. A., C. A. Lasso, V. P. Paez y B. C. Bock. 2015. Libro rojo de reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH), Universidad de Antioquia. Bogotá, D.C., Colombia.
   
 ### 2014-2007
+
 18. Gómez-Hoyos, D., Lopez-Garcia, M. M., Soto-Garzon, C. A., Mendez-Rojas, D. M., Kahn, T. R & __Velasco, J.A__. 2014. Geographic variation in the diet of the Cauca Poison Frog Andinobates bombetes (Anura: Dendrobatidae) in the Andes of Colombia. Herpetology Notes 7: 559-564.
 
 17. __Velasco, J.A__. and Hurtado-Gomez, J. P. 2014. A new green anole lizard of the "Dactyloa" clade (Squamata: Dactyloidae) from the Magdalena river valley of Colombia. Zootaxa 3785 (2): 201-216.
