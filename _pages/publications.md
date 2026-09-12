@@ -136,7 +136,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 56 García-Rodriguez, A., __Velasco, J.A__., Villalobos, F & Parra, G. 2021. Effects of evolutionary time, speciation rates and local abiotic conditions on the origin and maintenance of amphibian montane diversity.  Global Ecology and Biogeography 30: 674-684.  https://doi.org/10.1111/geb.13249
 
-55 Castelblanco-Martínez, D. M., Moreno-Arias, R., __Velasco, J.A__., Moreno-Bernal, J., Restrepo, S., Noguera-Urbano, E., Baptiste, M. P., García-Loaiza, L. M., Jímenez, G. L.  2021. A hippo in the room: Predicting the persistence and dispersion of an invasive mega-vertebrate in Colombia, South America. Biological Conservation 253: 108923.
+55 Castelblanco-Martínez, D. M., Moreno-Arias, R., __Velasco, J.A__., Moreno-Bernal, J., Restrepo, S., Noguera-Urbano, E., Baptiste, M. P., García-Loaiza, L. M., Jímenez, G. L.  2021. A hippo in the room: Predicting the persistence and dispersion of an invasive mega-vertebrate in Colombia, South America. Biological Conservation 253: 108923. https://doi.org/10.1016/j.biocon.2020.108923
 
 ### 2020
 
@@ -144,9 +144,9 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 53 Mejía-Domínguez, N.R., Ochoa-Ochoa, L.M., __Velasco, J.A__. 2020. Dinámica de metacomunidades en ecosistemas fragmentados. Ciencia. Oct-Dic. 2020. 71(4): 11-17.  https://www.revistaciencia.amc.edu.mx/online/X3_71_4_1301_Metacomunidades.pdf
   
-52 Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. __corresponding author__
+52 Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. https://doi.org/10.1111/jbi.13948 __corresponding author__
 
-51 Donihue, C.M, Kowaleski, C., Algar, A., Baeckens, S., Buchkowski, R.W., Fabre, A.C., Frank, H.K., Geneva, A.J., Mahler, D.L., Reynolds, R.G., Stroud, J.T., __Velasco, J.A__, Kolbe, J.J, Losos, J.B & Herrel, A. 2020. Hurricane Effects on Neotropical Lizards Span Geographic and Phylogenetic Scales. PNAS. 117(19): 10429-10434.
+51 Donihue, C.M, Kowaleski, C., Algar, A., Baeckens, S., Buchkowski, R.W., Fabre, A.C., Frank, H.K., Geneva, A.J., Mahler, D.L., Reynolds, R.G., Stroud, J.T., __Velasco, J.A__, Kolbe, J.J, Losos, J.B & Herrel, A. 2020. Hurricane Effects on Neotropical Lizards Span Geographic and Phylogenetic Scales. PNAS. 117(19): 10429-10434. https://doi.org/10.1073/pnas.2000801117
 
 50 Estrada, F., __Velasco, J.A__., Martínez-Arroyo, A & Calderón-Bustamante, O. 2020. An analysis of current sustainability of Mexican cities and their exposure to climate change. Frontiers in Environmental Science. https://doi.org/10.3389/fenvs.2020.00025
 
