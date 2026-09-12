@@ -47,7 +47,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 96 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org/10.1111/geb.70218
 
-95 Sánchez, R. M., __Velasco, J.A__., Porrúa, F. E., & Bustamante, O. C. 2026. Impacts of climate change on electrical subsidies’ public policies: the case of Mexico. Mitigation and Adaptation Strategies for Global Change, 31(3), 1-20. https://doi.org/10.1007/s11027-025-10282-1
+95 Sánchez, R. M., __Velasco, J.A__., Porrúa, F. E., & Bustamante, O. C. 2026. Impacts of climate change on electrical subsidies' public policies: the case of Mexico. Mitigation and Adaptation Strategies for Global Change, 31(3), 1-20. https://doi.org/10.1007/s11027-025-10282-1
 
 ## 2025
 
@@ -61,7 +61,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 90 Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography. e70007. https://doi.org/10.1111/jbi.70007
 
-89 García-Rodríguez, A., Villalobos, F.,__Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
+89 García-Rodríguez, A., Villalobos, F., __Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
 
 88 Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
   
@@ -113,7 +113,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 67 Mercado-Gómez, J.D., Morales-Puentes, M.E., Gonzalez, M.A., __Velasco, J.A__. 2022. Seasonal droughts during the Miocene drove the evolution of Capparaceae towards Neotropical seasonally dry forests. Revista de Biología Tropical 70: 132-148. https://doi.org/10.15517/rev.biol.trop..v70i1.47504
 
-66 Cruz-Elizalde, R., Ramírez-Bautista, A., Lozano, A.,  __Velasco, J. A__., Octavio-Aguilar, P., Berriozabal-Islas, C. 2022. Variation in size and shape sexual dimorphism in the Sceloporus scalaris species group (Squamata: Phrynosomatidae) from the Transvolcanic Belt of Mexico. Biological Journal of the Linnean Society. 135: 499-517 https://academic.oup.com/biolinnean/article-abstract/135/3/499/6494413
+66 Cruz-Elizalde, R., Ramírez-Bautista, A., Lozano, A.,  __Velasco, J.A__., Octavio-Aguilar, P., Berriozabal-Islas, C. 2022. Variation in size and shape sexual dimorphism in the Sceloporus scalaris species group (Squamata: Phrynosomatidae) from the Transvolcanic Belt of Mexico. Biological Journal of the Linnean Society. 135: 499-517 https://academic.oup.com/biolinnean/article-abstract/135/3/499/6494413
 
 ### 2021 
 
@@ -129,7 +129,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 60 Haro, A., Mendoza-Ponce, A., Calderón, O., __Velasco, J.A__., Estrada, F. 2021. Evaluating risk and possible adaptations to climate change under a socio-ecological system approach. Frontiers in Climate, 10 June 2021 https://doi.org/10.3389/fclim.2021.674693
 
-59 __Velasco, J.A__, Estrada, F and Calderón-Bustamante. 2021. Climate catastrophes, tipping points, and biodiversity. https://ecoevocommunity.nature.com/posts/climate-catastrophes-tipping-points-and-biodiversity
+59 __Velasco, J.A__, Estrada, F and Calderón-Bustamante, O. 2021. Climate catastrophes, tipping points, and biodiversity. https://ecoevocommunity.nature.com/posts/climate-catastrophes-tipping-points-and-biodiversity
 
 58 __Velasco, J.A__., Estrada, F., Calderón-Bustamante, O., Swingedouw, D., Ureta, C., Gay, C., Defrance, D. 2021. Synergistic impacts of global warming and thermohaline circulation collapse on amphibians. Communications Biology 4:141.  https://doi.org/10.1038/s42003-021-01665-6
 
@@ -193,7 +193,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 ### 2017
 
-31 Martínez-Meyer, E., A. González-Bernal, __J. A. Velasco__, T. L. Swetnam, Z. Y. González-Saucedo, J. Servín, C. A. López González, N. E. Lara Díaz, C. Aguilar Miguel, C. Chávez García, and J. K. Oakleaf. 2017. Mexican wolf habitat suitability analysis in historical range in the Southwestern US and Mexico. Final Report. U.S. Fish and Wildlife Service, Region 2, Albuquerque, New Mexico, USA. April 2017. 86 pp.
+31 Martínez-Meyer, E., A. González-Bernal, __Velasco, J.A__, T. L. Swetnam, Z. Y. González-Saucedo, J. Servín, C. A. López González, N. E. Lara Díaz, C. Aguilar Miguel, C. Chávez García, and J. K. Oakleaf. 2017. Mexican wolf habitat suitability analysis in historical range in the Southwestern US and Mexico. Final Report. U.S. Fish and Wildlife Service, Region 2, Albuquerque, New Mexico, USA. April 2017. 86 pp.
   
 30 Gómez-Hoyos, D.A., Rios-Franco, C.A., Vanegas-Guerrero, J., __Velasco, J.A__., and Gonzales-Maya, J. 2017. Estado y prioridades de conservación de los anfibios del departamento del Quindío, Colombia. Arxius de Miscel·lània Zoològica 15: 207-223.
 
