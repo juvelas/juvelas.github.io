@@ -32,7 +32,7 @@ image:
 
 102 Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Global Ecology and Biogeography 35(6), 845–861. https://doi.org/10.1111/geb.13456
   
-101 Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005 doi:10.70322/ecoldivers.2026.10005
+101 Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005. https://doi.org/10.70322/ecoldivers.2026.10005
   
 100 Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
 Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. https://doi.org/10.1371/journal.pone.0348700
@@ -64,13 +64,15 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 88 Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
   
-87 Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902 *Corresponding author.
+87 Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902
+*Corresponding author.
 
 86 García-Rodríguez, A., Lenzner, B., __Velasco, J.A__, Schertler, A., Omer, A., Seebens, H., Capinha, C., Gallardo, B., Dullinger, S. & Essl, F. 2025. The global status of alien vertebrates in mountains. Nature Communications. 16, 1977 https://doi.org/10.1038/s41467-025-57214-w
   
 ## 2024
 
-85 Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. https://doi.org/10.1016/j.geosus.2024.09.003 *Corresponding author.
+85 Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. https://doi.org/10.1016/j.geosus.2024.09.003
+*Corresponding author.
 
 84 __Velasco, Julian A__; Luna-Aranguré, C.; Calderón-Bustamante, O.; Mendoza-Ponce, A.; Estrada, F.; González-Salazar, C. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. 2024. PLOS One, 19(10), e0308522. https://doi.org/10.1371/journal.pone.0308522
   
@@ -92,7 +94,8 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 76 Estrada, F., Mendoza-Ponce, A., Murray, G., Calderón-Bustamante, O., Botzen, W., de León, T. & __Velasco, J.A__ 2023. Model emulators for the assessment of regional impacts and risks of climate change: a case study of rainfed maize production in Mexico. Frontiers in Environmental Science vol 11 2023 https://doi.org/10.3389/fenvs.2023.1027545
 
-75 Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 https://doi.org/10.1111/geb.13617 *corresponding author
+75 Vásquez-Restrepo, J.D., Ochoa-Ochoa, L., Flores-Villela, O., __Velasco, J.A__*. 2023. A deconstructive approach to evaluate dimensions of alpha diversity in squamates (Reptilia: Squamata) across the Americas. Global Ecology and Biogeography 32: 250-266 https://doi.org/10.1111/geb.13617
+*Corresponding author.
 
 74 Grupo de Investigación e Incidencia en la Biología del Cambio Climático (InBioCC): Aguirre-Liguori, Jonas A.; Álvarez-Filip, Lorenzo; Búrquez-Montijo, Alberto; Correa-Metrio, Alex; Cuervo-Robayo, Ángela P.; Domínguez, Omar; Escobedo-Galván, Armando H.; Garrido-Garduño, Tania; Gómez-Ruiz, Pilar Angélica; Jiménez-García, Daniel; Lara-Resendiz, Rafael; Luna-Aranguré, Carlos; Martínez-Meyer, Enrique; Mendoza-González, Gabriela; Nava-Bolaños, Angela; Ochoa-Ochoa, Leticia M.; Prieto-Torres, David A.; Ramírez-Barahona, Santiago; Sáenz-Romero, Cuauhtémoc; __Velasco, Julián A__. 2023. Estado del cambio climático en México: Biodiversidad. En: Estado y perspectivas del cambio climático en México. Un punto de partida. Reporte técnico. Programa de Investigación en Cambio Climático, UNAM. 
 
@@ -140,17 +143,18 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 ### 2020
 
-54 __Velasco, J.A__. 2020. When macroecology meets atmospheric sciences…Atmósfera. DOI: https://doi.org/10.20937/ATM.52896.
+54 __Velasco, J.A__. 2020. When macroecology meets atmospheric sciences…Atmósfera. https://doi.org/10.20937/ATM.52896
 
 53 Mejía-Domínguez, N.R., Ochoa-Ochoa, L.M., __Velasco, J.A__. 2020. Dinámica de metacomunidades en ecosistemas fragmentados. Ciencia. Oct-Dic. 2020. 71(4): 11-17.  https://www.revistaciencia.amc.edu.mx/online/X3_71_4_1301_Metacomunidades.pdf
   
-52 Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. https://doi.org/10.1111/jbi.13948 *Corresponding author.
+52 Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. https://doi.org/10.1111/jbi.13948
+*Corresponding author.
 
 51 Donihue, C.M, Kowaleski, C., Algar, A., Baeckens, S., Buchkowski, R.W., Fabre, A.C., Frank, H.K., Geneva, A.J., Mahler, D.L., Reynolds, R.G., Stroud, J.T., __Velasco, J.A__, Kolbe, J.J, Losos, J.B & Herrel, A. 2020. Hurricane Effects on Neotropical Lizards Span Geographic and Phylogenetic Scales. PNAS. 117(19): 10429-10434. https://doi.org/10.1073/pnas.2000801117
 
 50 Estrada, F., __Velasco, J.A__., Martínez-Arroyo, A & Calderón-Bustamante, O. 2020. An analysis of current sustainability of Mexican cities and their exposure to climate change. Frontiers in Environmental Science. https://doi.org/10.3389/fenvs.2020.00025
 
-49 __Velasco J.A__., Villalobos, F., Diniz-Filho, JAF., Poe, S., Flores-Villela, O. 2020. Macroecology and macroevolution of body size in Anolis lizards. Ecography 43: 812-822. doi: https://doi.org/10.1111/ecog.04583.
+49 __Velasco J.A__., Villalobos, F., Diniz-Filho, JAF., Poe, S., Flores-Villela, O. 2020. Macroecology and macroevolution of body size in Anolis lizards. Ecography 43: 812-822. https://doi.org/10.1111/ecog.04583
   
 48 Bermúdez-Rivas, C., Aguirre-Tapiero, M. P., __Velasco, J.A__. 2020. Capítulo VII. Tendencias en la biogeoquímica del océano Pacífico Oriental Tropical y Sureste bajo diferentes escenarios de cambio climático. En: Compilación oceanográfica de la Cuenca Pacífica Colombiana II. Pp 198-231. Dirección General Marítima. Bogotá, D.C. Editorial Dimar.
 
@@ -170,15 +174,15 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 ### 2018
 
-41 __Velasco, J.A__ & Gonzalez-Salazar, C. 2018. Akaike information criteria and predictive geographical accuracy are not related in ecological niche modeling. BioRxiv. doi: https://doi.org/10.1101/315101
+41 __Velasco, J.A__ & Gonzalez-Salazar, C. 2018. Akaike information criteria and predictive geographical accuracy are not related in ecological niche modeling. BioRxiv. https://doi.org/10.1101/315101
 
-40 __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. doi: https://doi.org/10.1101/261867
+40 __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. https://doi.org/10.1101/261867
 
 39 Yanez-Muñoz, M., Reyes-Puig, C., Reyes-Puig, J.P., Velasco, J.A., Ayala-Varela, F & Torres-Carvajal, O. 2018. A new cryptic species of Anolis lizard from northwestern South America (Iguanidae, Dactyloinae). Zookeys 794: 135-163. https://doi.org/10.3897/zookeys.794.26936
 
 38 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Reply to Hedrick et al.: The role of genetic rescue in Mexican Wolf recovery. Biological Conservation 206: 212-213.
 
-37 __Velasco, J.A__., Martínez-Myer, E., Flores-Villela, O. 2018. Climatic niche dynamics and its role in the insular endemism of Anolis lizards. Evolutionary Biology. 45(3), 345-357.  DOI: 10.1007/s11692-018-9455-x.
+37 __Velasco, J.A__., Martínez-Myer, E., Flores-Villela, O. 2018. Climatic niche dynamics and its role in the insular endemism of Anolis lizards. Evolutionary Biology. 45(3), 345-357. https://doi.org/10.1007/s11692-018-9455-x
 
 36 Gómez-Hoyos, D., Cardona, W., Gonzalez-Duran, G., Flechas, S.V., Kattan, G. H., & __Velasco, J.A__. 2018. The population decline of Atelopus quimbaya (Anura: Bufonidae) in the Andes of Colombia. Revista Latinoamericana de Herpetología. 1(1): 34-42.
 
