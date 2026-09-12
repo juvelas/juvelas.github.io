@@ -82,7 +82,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 81 __Velasco, J.A__. 2023. El colapso de la corriente AMOC y los impactos sobre la diversidad de anfibios a nivel global. Pag. 83-90. En: Primer Compendio Sobre las Investigaciones en Cambio Climático de la UNAM 2021. Editor Rubén Darío Martínez Ramírez. PINCC-Universidad Nacional Autónoma de México. ISBN: 978-607-30-7730-9.
   
-80 Hidaldo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. 2023, 15.3, e59233. https://escholarship.org/uc/item/78h3k1z4
+80 Hidalgo-Licona, L. F., Flores-Villela, O. & __Velasco, J.A__  2023. Climatic niche differentiation and paleodistribution of the longtail alpine garter snake complex Thamnophis scalaris (Squamata: Colubridae): Holocene refugia in the Mexican highlands. Frontiers in Biogeography. 2023, 15.3, e59233. https://escholarship.org/uc/item/78h3k1z4
 
 79 Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
 
@@ -174,7 +174,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 40 __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. doi: https://doi.org/10.1101/261867
 
-39 Yanez-Muñoz, M., Reyes-Puig, C., Reyes-Puig, J.P., Velasco, J.A., Ayala-Varela, F & Torres-Carvajal, O. 2018. A new cryptic species of Anolis lizard from northwesten South America (Iguanidae, Dactyloinae). Zookeys 794: 135-163. https://doi.org/10.3897/zookeys.794.26936
+39 Yanez-Muñoz, M., Reyes-Puig, C., Reyes-Puig, J.P., Velasco, J.A., Ayala-Varela, F & Torres-Carvajal, O. 2018. A new cryptic species of Anolis lizard from northwestern South America (Iguanidae, Dactyloinae). Zookeys 794: 135-163. https://doi.org/10.3897/zookeys.794.26936
 
 38 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Reply to Hedrick et al.: The role of genetic rescue in Mexican Wolf recovery. Biological Conservation 206: 212-213.
 
@@ -254,7 +254,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 4 Corredor, G., Velasquez, B., __Velasco, J.A__., Castro, F., Bolivar, W., Salazar, ML (eds.). 2010. Plan de Acción para la Conservación de los Anfibios del Departamento del Valle del Cauca. Corporación Autónoma Regional del Valle del Cauca –CVC. Santiago de Cali. 41 p. ISBN: 978-958-9187-96-8. 
 
-3 Poe, S., __Velasco, J.A__., K. Miyata & E. E. Williams. 2009. New or problematic Anolis from Colombia VIII: Descriptions of two nomen nudem species. Breviora Number 516: 1-16.
+3 Poe, S., __Velasco, J.A__., K. Miyata & E. E. Williams. 2009. New or problematic Anolis from Colombia VIII: Descriptions of two nomen nudum species. Breviora Number 516: 1-16.
 
 2 __Velasco, J.A__., Quintero-Angel, A. & Gárces, M. F. 2008. Diversidad específica de Anfibios y Reptiles en zonas bajas del Pacífico del Valle del Cauca. Cespedesia 31 (86-87): 81-93.
   
