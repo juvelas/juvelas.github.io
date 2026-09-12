@@ -72,7 +72,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 85 Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. https://doi.org/10.1016/j.geosus.2024.09.003 *Corresponding author.
 
-84 __Velasco, Julian A__; Luna-Aranguré, C.; Calderón-Bustamante, O.; Mendoza-Ponce, A.; Estrada, F.; González-Salazar, C. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. 2024. PloS one, 19(10), e0308522. https://doi.org/10.1371/journal.pone.0308522
+84 __Velasco, Julian A__; Luna-Aranguré, C.; Calderón-Bustamante, O.; Mendoza-Ponce, A.; Estrada, F.; González-Salazar, C. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. 2024. PLOS One, 19(10), e0308522. https://doi.org/10.1371/journal.pone.0308522
   
 83 Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). 2024. Ecology and Evolution. 14 (3) e11108. https://doi.org/10.1002/ece3.11108
 
@@ -194,7 +194,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 31 Martínez-Meyer, E., A. González-Bernal, __J. A. Velasco__, T. L. Swetnam, Z. Y. González-Saucedo, J. Servín, C. A. López González, N. E. Lara Díaz, C. Aguilar Miguel, C. Chávez García, and J. K. Oakleaf. 2017. Mexican wolf habitat suitability analysis in historical range in the Southwestern US and Mexico. Final Report. U.S. Fish and Wildlife Service, Region 2, Albuquerque, New Mexico, USA. April 2017. 86 pp
   
-30 Gómez-Hoyos, D.A., Rios-Franco, C.A., Vanegas-Guerrero, J., __Velasco, J.A__., and Gonzales-Maya, J. 2017. Estado y prioridades de conservación de los anfibios del departamento del Quindío, Colombia. Arxius of Miscellania Zoologica 15: 207-223.
+30 Gómez-Hoyos, D.A., Rios-Franco, C.A., Vanegas-Guerrero, J., __Velasco, J.A__., and Gonzales-Maya, J. 2017. Estado y prioridades de conservación de los anfibios del departamento del Quindío, Colombia. Arxius de Miscel·lània Zoològica 15: 207-223.
 
 29 Grisales-Martínez, F., __Velasco, J.A__., Bolivar-García, W & Daza, J. M. 2017. The taxonomic and phylogenetic status of some poorly known Anolis species from the Andes of Colombia with the description of a nomen nudum taxa. Zootaxa 4303: 213-230.
 
