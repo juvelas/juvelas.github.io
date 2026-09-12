@@ -37,7 +37,7 @@ image:
 100 Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
 Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. https://doi.org/10.1371/journal.pone.0348700
 
-99 Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. PeerJ 14:e21165 http://doi.org/10.7717/peerj.21165
+99 Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. PeerJ 14:e21165 https://doi.org/10.7717/peerj.21165
   
 98 Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management 405 (2026) 129768 https://doi.org/10.1016/j.jenvman.2026.129768
   
@@ -148,7 +148,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 51 Donihue, C.M, Kowaleski, C., Algar, A., Baeckens, S., Buchkowski, R.W., Fabre, A.C., Frank, H.K., Geneva, A.J., Mahler, D.L., Reynolds, R.G., Stroud, J.T., __Velasco, J.A__, Kolbe, J.J, Losos, J.B & Herrel, A. 2020. Hurricane Effects on Neotropical Lizards Span Geographic and Phylogenetic Scales. PNAS. 117(19): 10429-10434.
 
-50 Estrada, F., __Velasco, J.A__., Martínez-Arroyo, A & Calderón-Bustamante, O. 2020. An analysis of current sustainability of Mexican cities and their exposure to climate change. Frontiers in Environmental Science. doi: 10.3389/fenvs.2020.00025
+50 Estrada, F., __Velasco, J.A__., Martínez-Arroyo, A & Calderón-Bustamante, O. 2020. An analysis of current sustainability of Mexican cities and their exposure to climate change. Frontiers in Environmental Science. https://doi.org/10.3389/fenvs.2020.00025
 
 49 __Velasco J.A__., Villalobos, F., Diniz-Filho, JAF., Poe, S., Flores-Villela, O. 2020. Macroecology and macroevolution of body size in Anolis lizards. Ecography 43: 812-822. doi: https://doi.org/10.1111/ecog.04583.
   
