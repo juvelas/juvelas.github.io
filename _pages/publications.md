@@ -88,7 +88,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 79 Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
 
-78 Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales., Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881. https://doi.org/10.3390/d15070881
+78 Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales, Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881. https://doi.org/10.3390/d15070881
 
 77 Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, J.A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology 29 (7): 4924-4938 https://doi.org/10.1111/gcb.16849
 
@@ -178,7 +178,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 40 __Velasco, J.A__ & Pinto-Ledezma, J. 2018. Mapping diversification metrics in macroecological studies: Prospects and challenges. BioRxiv. https://doi.org/10.1101/261867
 
-39 Yanez-Muñoz, M., Reyes-Puig, C., Reyes-Puig, J.P., Velasco, J.A., Ayala-Varela, F & Torres-Carvajal, O. 2018. A new cryptic species of Anolis lizard from northwestern South America (Iguanidae, Dactyloinae). Zookeys 794: 135-163. https://doi.org/10.3897/zookeys.794.26936
+39 Yanez-Muñoz, M., Reyes-Puig, C., Reyes-Puig, J.P., Velasco, J.A., Ayala-Varela, F & Torres-Carvajal, O. 2018. A new cryptic species of Anolis lizard from northwestern South America (Iguanidae, Dactyloinae). ZooKeys 794: 135-163. https://doi.org/10.3897/zookeys.794.26936
 
 38 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Reply to Hedrick et al.: The role of genetic rescue in Mexican Wolf recovery. Biological Conservation 206: 212-213.
 
@@ -232,7 +232,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 17 __Velasco, J.A__. and Hurtado-Gomez, J. P. 2014. A new green anole lizard of the "Dactyloa" clade (Squamata: Dactyloidae) from the Magdalena river valley of Colombia. Zootaxa 3785 (2): 201-216.
 
-16 Díaz-Gutiérrez, N., Vargas-Salinas, F., Rivera-Correa, M. Rojas-Morales, J. A. Escobar-Lasso, S. __Velasco, J.A__. Gutiérrez-Cárdenas, P.D.A & Amezquita, A. 2013. Description of the previously unknown advertisement call and tadpole of the Colombian endemic glassfrog Centrolene savagei (Anura, Cen- trolenidae). Zootaxa 3686 (2): 289-296.
+16 Díaz-Gutiérrez, N., Vargas-Salinas, F., Rivera-Correa, M., Rojas-Morales, J. A., Escobar-Lasso, S., __Velasco, J.A__., Gutiérrez-Cárdenas, P.D.A & Amezquita, A. 2013. Description of the previously unknown advertisement call and tadpole of the Colombian endemic glassfrog Centrolene savagei (Anura, Cen- trolenidae). Zootaxa 3686 (2): 289-296.
 
 15 Ayerbe-Quiñones, F; M. F. Garcés; V. Rojas-Díaz; C. A. Saavedra-Rodríguez; C. Gutiérrez-Chacón; N. Roncancio-Duque; C. A. Ríos-Franco; C. Gómez-Posada, P. A. Giraldo-Ramírez; __Julián A. Velasco__; and P. Franco. 2012. Plan de conservación y manejo del tucán pechigrís (Andigena hypoglauca) [Libro]. - Pereira (Colombia) : Sistema de Información Regional de Áreas Protegidas del Eje Cafetero SIRAP-EC, 2012. - Primera : pag. 46. - ISBN: 978-958-8370-30-9.
 
