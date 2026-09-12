@@ -28,7 +28,7 @@ image:
 
 ## 2026
 
-103 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution 00-00 https://doi.org/10.1093/evolut/qpag159
+103 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution qpag159. https://doi.org/10.1093/evolut/qpag159
 
 102 Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Global Ecology and Biogeography 35(6), 845–861. https://doi.org/10.1111/geb.13456
   
@@ -58,7 +58,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 91 Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution 15:e71716 https://doi.org/10.1002/ece3.71716 
 
-90 Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography e70007 https://doi.org/10.1111/jbi.70007
+90 Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography. e70007. https://doi.org/10.1111/jbi.70007
 
 89 García-Rodríguez, A., Villalobos, F.,__Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
 
@@ -180,17 +180,17 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 39 Yanez-Muñoz, M., Reyes-Puig, C., Reyes-Puig, J.P., Velasco, J.A., Ayala-Varela, F & Torres-Carvajal, O. 2018. A new cryptic species of Anolis lizard from northwestern South America (Iguanidae, Dactyloinae). ZooKeys 794: 135-163. https://doi.org/10.3897/zookeys.794.26936
 
-38 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Reply to Hedrick et al.: The role of genetic rescue in Mexican Wolf recovery. Biological Conservation 206: 212-213.
+38 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Reply to Hedrick et al.: The role of genetic rescue in Mexican Wolf recovery. Biological Conservation 206: 212-213. https://doi.org/10.1016/j.biocon.2018.05.006
 
 37 __Velasco, J.A__., Martínez-Myer, E., Flores-Villela, O. 2018. Climatic niche dynamics and its role in the insular endemism of Anolis lizards. Evolutionary Biology. 45(3), 345-357. https://doi.org/10.1007/s11692-018-9455-x
 
-36 Gómez-Hoyos, D., Cardona, W., Gonzalez-Duran, G., Flechas, S.V., Kattan, G. H., & __Velasco, J.A__. 2018. The population decline of Atelopus quimbaya (Anura: Bufonidae) in the Andes of Colombia. Revista Latinoamericana de Herpetología. 1(1): 34-42.
+36 Gómez-Hoyos, D., Cardona, W., Gonzalez-Duran, G., Flechas, S.V., Kattan, G. H., & __Velasco, J.A__. 2018. The population decline of Atelopus quimbaya (Anura: Bufonidae) in the Andes of Colombia. Revista Latinoamericana de Herpetología. 1(1): 34-42. https://doi.org/10.22201/fc.25942158e.2018.1.11
 
-35 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Perils of Recovering the Mexican Wolf Outside of Its Historical Range. Biological Conservation 220: 290-298.
+35 Odell, E., Heffelfinger, J., Rosenstock, S., Bishop, C., Liley, S., Gonzales-Bernal, A., __Velasco J.A__., Martínez-Meyer, E. 2018. Perils of Recovering the Mexican Wolf Outside of Its Historical Range. Biological Conservation 220: 290-298. https://doi.org/10.1016/j.biocon.2018.01.020
 
-34 Poe, S., Nieto-Montes de Oca, A., Torres-Carvajal, O., Tuett, B., Kohler, G., Ayala, F., __Velasco, J.A__., and Latella, I. 2018. Comparative evolution of an archetypal adaptive radiation: Innovation and opportunity in Anolis lizards. The American Naturalist. 191: E185-E194.
+34 Poe, S., Nieto-Montes de Oca, A., Torres-Carvajal, O., Tuett, B., Kohler, G., Ayala, F., __Velasco, J.A__., and Latella, I. 2018. Comparative evolution of an archetypal adaptive radiation: Innovation and opportunity in Anolis lizards. The American Naturalist. 191: E185-E194. https://doi.org/10.1086/698221
 
-33 __Velasco, J.A__., Villalobos, F., Diniz-Filho, JAF., Algar, A.C., Flores-Villela, O., Kohler, G., Poe, S., Martínez-Meyer, E. 2018. Climatic and evolutionary factors shaping geographical gradients of species richness in Anolis lizards. Biological Journal of the Linnean Society 123: 615-627.
+33 __Velasco, J.A__., Villalobos, F., Diniz-Filho, JAF., Algar, A.C., Flores-Villela, O., Kohler, G., Poe, S., Martínez-Meyer, E. 2018. Climatic and evolutionary factors shaping geographical gradients of species richness in Anolis lizards. Biological Journal of the Linnean Society 123: 615-627. https://doi.org/10.1093/biolinnean/blx160
   
 32 __Velasco, J.A__., 2018. Are historical biogeographical events able to promote biological diversification. In: Pure and Applied Biogeography. InTechOpen. pp. 2-17.
 
