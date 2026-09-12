@@ -64,7 +64,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 88 Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
   
-87 Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. 2025. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902
+87 Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2025. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902
 *Corresponding author.
 
 86 García-Rodríguez, A., Lenzner, B., __Velasco, J.A__, Schertler, A., Omer, A., Seebens, H., Capinha, C., Gallardo, B., Dullinger, S. & Essl, F. 2025. The global status of alien vertebrates in mountains. Nature Communications. 16, 1977 https://doi.org/10.1038/s41467-025-57214-w
@@ -162,13 +162,13 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 ### 2019
 
-46 Ramírez-Barrera S.M, __Velasco J.A__., Orozco-Téllez T., Vázquez-López, A. M. & Hernández-Baños, B. 2019. What drives genetic and phenotypic divergence in the red-crowned ant-tanager (Habia rubica: Aves: Cardinalidae), a polytypic species. Ecology and Evolution 9: 12339-12352.
+46 Ramírez-Barrera S.M, __Velasco J.A__., Orozco-Téllez T., Vázquez-López, A. M. & Hernández-Baños, B. 2019. What drives genetic and phenotypic divergence in the red-crowned ant-tanager (Habia rubica: Aves: Cardinalidae), a polytypic species. Ecology and Evolution 9: 12339-12352. https://doi.org/10.1002/ece3.5742
 
-45 __Velasco, J.A__., Poe, S., González-Salazar, C. & Flores-Villela. 2019. Solitary ecology as a phenomenon extending beyond insular systems: Exaptive evolution in Anolis lizards. Biology Letters 15: 20190056.
+45 __Velasco, J.A__., Poe, S., González-Salazar, C. & Flores-Villela. 2019. Solitary ecology as a phenomenon extending beyond insular systems: Exaptive evolution in Anolis lizards. Biology Letters 15: 20190056. https://doi.org/10.1098/rsbl.2019.0056
 
-44 Pazos-Nava FN, RI Álvaro-Montejo, FG Cupul-Magaña, R García de Quevedo-Machain, US Flores-Guerrero, __Velasco J.A__ & Escobedo-Galván, AH. 2019. First verified record of Anolis sagrei Cocteau in Duméril & Bibron, 1837 in the central Pacific coast of Mexico. BioInvasions Records 8(3): 568-574.
+44 Pazos-Nava FN, RI Álvaro-Montejo, FG Cupul-Magaña, R García de Quevedo-Machain, US Flores-Guerrero, __Velasco J.A__ & Escobedo-Galván, AH. 2019. First verified record of Anolis sagrei Cocteau in Duméril & Bibron, 1837 in the central Pacific coast of Mexico. BioInvasions Records 8(3): 568-574. https://doi.org/10.3391/bir.2019.8.3.12
 
-43 Ochoa-Ochoa, L. M., Mejía-Domínguez, N.R., __Velasco, J.A__, Marskea, K.A. & Rahbek, C. 2019. Amphibian functional diversity is related to precipitation stability in the New World. Global Ecology and Biogeography. 28: 1219-1229.
+43 Ochoa-Ochoa, L. M., Mejía-Domínguez, N.R., __Velasco, J.A__, Marske, K.A. & Rahbek, C. 2019. Amphibian functional diversity is related to precipitation stability in the New World. Global Ecology and Biogeography. 28: 1219-1229. https://doi.org/10.1111/geb.12926
 
 42 __Velasco, J.A__ & González-Salazar, C. 2019. Akaike information criterion should not be a "test" of geographical prediction accuracy in ecological niche modelling. Ecological Informatics 51: 25-32. https://doi.org/10.1016/j.ecoinf.2019.02.005
 
