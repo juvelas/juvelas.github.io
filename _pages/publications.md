@@ -41,7 +41,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
   
 98 Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management 405 (2026) 129768 https://doi.org/10.1016/j.jenvman.2026.129768
   
-97 Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1): 00-00. https://cuadernosdeherpetologia.com/index.php/CdH/article/view/384
+97 Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1). https://doi.org/10.31017/CdH.2026.(2025-032)
 
 96 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org/10.1111/geb.70218
 *Corresponding author.
@@ -143,7 +143,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 ### 2020
 
-54 __Velasco, J.A__. 2020. When macroecology meets atmospheric sciences…Atmósfera. https://doi.org/10.20937/ATM.52896
+54 __Velasco, J.A__. 2020. When macroecology meets atmospheric sciences… Atmósfera 33(2): 111-113. https://doi.org/10.20937/ATM.52896
 
 53 Mejía-Domínguez, N.R., Ochoa-Ochoa, L.M., __Velasco, J.A__. 2020. Dinámica de metacomunidades en ecosistemas fragmentados. Ciencia. Oct-Dic. 2020. 71(4): 11-17.  https://www.revistaciencia.amc.edu.mx/online/X3_71_4_1301_Metacomunidades.pdf
   
