@@ -54,7 +54,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 93 Gagnon, É., Castelblanco‐Martínez, N., Ramos, E. A., Aguilera‐Miranda, I. D., __Velasco, J.A__., Brady, B., & Martin, J. G. (2025). Multi‐Scale Habitat Selection of Greater Caribbean Manatees in Sian Ka'an Biosphere Reserve, Mexico. Marine Mammal Science, 42:e70072 https://doi.org/10.1111/mms.70072
 
-92 Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellisier, L., van der Plas, F., Rosindell, J., Orstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications 16: 7894 https://doi.org/10.1038/s41467-025-62124-y
+92 Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellissier, L., van der Plas, F., Rosindell, J., Onstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications 16: 7894 https://doi.org/10.1038/s41467-025-62124-y
 
 91 Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution 15:e71716 https://doi.org/10.1002/ece3.71716 
 
@@ -88,7 +88,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 79 Martínez-Meyer, E and __Velasco, J.A__. 2023. Contemporary climate change impacts on Mexican fauna. Chapter 4.1. In Book: Mexican Fauna in the Anthropocene. http://dx.doi.org/10.1007/978-3-031-17277-9_20
 
-78 Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales, Eileen Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881. https://doi.org/10.3390/d15070881
+78 Cruz J.A., __Velasco, J.A__., Arroyo-Cabrales, J., Johnson, E. Paleoclimatic Reconstruction Based on the Late Pleistocene San Josecito Cave Stratum 720 Fauna Using Fossil Mammals, Reptiles, and Birds. 2023. Diversity 2023, 15(7), 881. https://doi.org/10.3390/d15070881
 
 77 Garcia Rodriguez, Adrian; Lenzner, Bernd; Marino, Clara; Liu, Chunlong;  __Velasco, J.A__; Bellard, Celine; Jeschke, Jonathan; Seebens, Hanno; Essl, Franz. 2023. Patterns and drivers of climatic niche dynamics during biological invasions of island-endemic tetrapods. Global Change Biology 29 (7): 4924-4938 https://doi.org/10.1111/gcb.16849
 
