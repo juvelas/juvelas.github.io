@@ -170,7 +170,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 43 Ochoa-Ochoa, L. M., Mejía-Domínguez, N.R., __Velasco, J.A__, Marskea, K.A. & Rahbek, C. 2019. Amphibian functional diversity is related to precipitation stability in the New World. Global Ecology and Biogeography. 28: 1219-1229.
 
-42 __Velasco, J.A__ & González-Salazar, C. 2019. Akaike information criterion should not be a “test” of geographical prediction accuracy in ecological niche modelling. Ecological Informatics 51: 25-32. https://doi.org/10.1016/j.ecoinf.2019.02.005
+42 __Velasco, J.A__ & González-Salazar, C. 2019. Akaike information criterion should not be a "test" of geographical prediction accuracy in ecological niche modelling. Ecological Informatics 51: 25-32. https://doi.org/10.1016/j.ecoinf.2019.02.005
 
 ### 2018
 
