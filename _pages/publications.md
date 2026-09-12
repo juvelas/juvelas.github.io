@@ -147,7 +147,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. ht
 
 53 Mejía-Domínguez, N.R., Ochoa-Ochoa, L.M., __Velasco, J.A__. 2020. Dinámica de metacomunidades en ecosistemas fragmentados. Ciencia. Oct-Dic. 2020. 71(4): 11-17.  https://www.revistaciencia.amc.edu.mx/online/X3_71_4_1301_Metacomunidades.pdf
   
-52 Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. https://doi.org/10.1111/jbi.13948
+52 Ochoa-Ochoa, L.,Mejía-Domínguez, N.R., __Velasco, J.A__*., Dimitrov, D & Marske, K.A. 2020. Dimensions of Amphibian alpha diversity in the New World. Journal of Biogeography 47:  2293-2302. https://doi.org/10.1111/jbi.13948
 *Corresponding author.
 
 51 Donihue, C.M, Kowaleski, C., Algar, A., Baeckens, S., Buchkowski, R.W., Fabre, A.C., Frank, H.K., Geneva, A.J., Mahler, D.L., Reynolds, R.G., Stroud, J.T., __Velasco, J.A__, Kolbe, J.J, Losos, J.B & Herrel, A. 2020. Hurricane Effects on Neotropical Lizards Span Geographic and Phylogenetic Scales. PNAS. 117(19): 10429-10434. https://doi.org/10.1073/pnas.2000801117
