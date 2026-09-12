@@ -28,9 +28,9 @@ image:
 
 ## 2026
 
-103. Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Scienti[...]
-  
-102. Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution XX-XX
+103. Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution 00-00 https://doi.org/10.1093/evolut/qpag159
+
+102. Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Scienti[...]
   
 101. Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Pro[...]
   
