@@ -30,54 +30,56 @@ image:
 
 ## 2026
 
-103 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution qpag159. https://doi.org/10.1093/evolut/qpag159
+104 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution qpag159. https://doi.org/10.1093/evolut/qpag159
 
-102 Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Scientific Reports https://doi.org/10.1038/s41598-026-67928-6
+103 Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Scientific Reports https://doi.org/10.1038/s41598-026-67928-6
   
-101 Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005. https://doi.org/10.70322/ecoldivers.2026.10005
+102 Araiza-Alvarado, B. I., González-Zamora, A., Castro-Bastidas, H.A., __Velasco, J.A__., Aguillón-Gutiérrez, D.R. 2026. Critical Conservation Gaps for Microendemic Axolotls Reveal Inadequate Protection in Central Mexico. Ecology and Diversity 2026, 3(2), 10005. https://doi.org/10.70322/ecoldivers.2026.10005
   
-100 Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
+101 Toro-Cardona, F., __Velasco, J.A__., Pinto-Ledezma, J., Rovito, S., Villalobos, F., Rojas-Soto, O., Parra-Vergara, J. L.
 Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. https://doi.org/10.1371/journal.pone.0348700
 
-99 Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. PeerJ 14:e21165 https://doi.org/10.7717/peerj.21165
+100 Vega-Yánez, M.A., __Velasco, J.A__., Hutter, C.R., Franco-Mena, D., Amador, L., Guayasamin, J.M. 2026. Evolutionary conservation hotspots: Key areas for threatened Neotropical glassfrogs under climate change scenarios. PeerJ 14:e21165 https://doi.org/10.7717/peerj.21165
   
-98 Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management 405 (2026) 129768 https://doi.org/10.1016/j.jenvman.2026.129768
+99 Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management 405 (2026) 129768 https://doi.org/10.1016/j.jenvman.2026.129768
   
-97 Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1). https://doi.org/10.31017/CdH.2026.(2025-032)
+98 Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1). https://doi.org/10.31017/CdH.2026.(2025-032)
 
-96 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org/10.1111/geb.70218
+97 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. https://doi.org/10.1111/geb.70218
 
-95 Sánchez, R. M., __Velasco, J.A__., Porrúa, F. E., & Bustamante, O. C. 2026. Impacts of climate change on electrical subsidies' public policies: the case of Mexico. Mitigation and Adaptation Strategies for Global Change, 31(3), 1-20. https://doi.org/10.1007/s11027-025-10282-1
+96 Sánchez, R. M., __Velasco, J.A__., Porrúa, F. E., & Bustamante, O. C. 2026. Impacts of climate change on electrical subsidies' public policies: the case of Mexico. Mitigation and Adaptation Strategies for Global Change, 31(3), 1-20. https://doi.org/10.1007/s11027-025-10282-1
 
 ## 2025
 
-94 __Velasco, J.A__*., Vásquez-Restrepo, J.D., Salazar, J.C. 2025. The Climatic Niche Evolution of South American Squamates (Reptilia: Squamata). In: Urbina-Cardona, J.N., Navas, C.A., Catenazzi, A., Piantoni, C. (eds) Andean Herpetofauna. Sustainable Development Goals Series. Springer, Cham. pp 105-116. https://doi.org/10.1007/978-3-032-00074-3_6
+95 __Velasco, J.A__*., Vásquez-Restrepo, J.D., Salazar, J.C. 2025. The Climatic Niche Evolution of South American Squamates (Reptilia: Squamata). In: Urbina-Cardona, J.N., Navas, C.A., Catenazzi, A., Piantoni, C. (eds) Andean Herpetofauna. Sustainable Development Goals Series. Springer, Cham. pp 105-116. https://doi.org/10.1007/978-3-032-00074-3_6
 
-93 Gagnon, É., Castelblanco‐Martínez, N., Ramos, E. A., Aguilera‐Miranda, I. D., __Velasco, J.A__., Brady, B., & Martin, J. G. (2025). Multi‐Scale Habitat Selection of Greater Caribbean Manatees in Sian Ka'an Biosphere Reserve, Mexico. Marine Mammal Science, 42:e70072 https://doi.org/10.1111/mms.70072
+94 Gagnon, É., Castelblanco‐Martínez, N., Ramos, E. A., Aguilera‐Miranda, I. D., __Velasco, J.A__., Brady, B., & Martin, J. G. (2025). Multi‐Scale Habitat Selection of Greater Caribbean Manatees in Sian Ka'an Biosphere Reserve, Mexico. Marine Mammal Science, 42:e70072 https://doi.org/10.1111/mms.70072
 
-92 Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellissier, L., van der Plas, F., Rosindell, J., Onstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications 16: 7894 https://doi.org/10.1038/s41467-025-62124-y
+93 Alzate, A., Rozzi, R., __Velasco, J.A__., Robertson, D.R., Zizka, A., Tobias, J.A., Hill, A., Bacon, C.D., Janzen, T., Pellissier, L., van der Plas, F., Rosindell, J., Onstein, R. E. 2025. The evolutionary age-range size relationship is modulated by insularity and dispersal in plants and animals. Nature Communications 16: 7894 https://doi.org/10.1038/s41467-025-62124-y
 
-91 Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution 15:e71716 https://doi.org/10.1002/ece3.71716 
+92 Ramirez-Ramirez, J., __Velasco, J.A__., Reeder, T. 2025. Regional climate drives spatial variation in species richness in the most diverse family of Neotropical snakes (Colubroidea: Dipsadidae). Ecology and Evolution 15:e71716 https://doi.org/10.1002/ece3.71716 
 
-90 Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography. e70007. https://doi.org/10.1111/jbi.70007
+91 Torres-Romero, E., __Velasco, J.A__., Woolrich-Piña, G.A., Lemos-Espinal, J.A., Smith, G., Nijman, V., Godley, B., Ceballos, G. 2025. The World's Marine Turtles on the Brink: Unraveling the Impact of Human Stressors and Marine Sanctuary Dynamics. Journal of Biogeography. e70007. https://doi.org/10.1111/jbi.70007
 
-89 García-Rodríguez, A., Villalobos, F., __Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
+90 García-Rodríguez, A., Villalobos, F., __Velasco, J.A__., Essl, F., Costa, G.C. 2025. The latitudinal variation in amphibian speciation rates revisited. Communications Biology 8: 822 https://doi.org/10.1038/s42003-025-08225-2
 
-88 Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
+89 Luna-Aranguré, C., Estrada, F., __Velasco, J.A__., Calderón-Bustamante, O., González-Salazar, C. 2025. Environmental exposure of terrestrial biomes to global climate change: an n-dimensional approach. Ecosphere 16: e70262 https://doi.org/10.1002/ecs2.70262
   
-87 Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2025. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902
+88 Smith, C., Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2025. Using bioclimatic indicators to analyse the presence of climatic lag amongst local amphibian assemblages of America. Revista Latinoamericana de Herpetología 8(1), e902: 114-128 https://doi.org/10.22201/fc.25942158e.2025.1.902
 
-86 García-Rodríguez, A., Lenzner, B., __Velasco, J.A__, Schertler, A., Omer, A., Seebens, H., Capinha, C., Gallardo, B., Dullinger, S. & Essl, F. 2025. The global status of alien vertebrates in mountains. Nature Communications 16, 1977 https://doi.org/10.1038/s41467-025-57214-w
+87 García-Rodríguez, A., Lenzner, B., __Velasco, J.A__, Schertler, A., Omer, A., Seebens, H., Capinha, C., Gallardo, B., Dullinger, S. & Essl, F. 2025. The global status of alien vertebrates in mountains. Nature Communications 16, 1977 https://doi.org/10.1038/s41467-025-57214-w
   
 ## 2024
 
-85 Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. https://doi.org/10.1016/j.geosus.2024.09.003
+86 Ochoa-Ochoa, L.M & __Velasco, J.A__*. 2024. Long-term stability in protected-areas? A vision from American/New World amphibians. Geography and Sustainability, 5(4), 673-683. https://doi.org/10.1016/j.geosus.2024.09.003
 
-84 __Velasco, Julian A__, Luna-Aranguré, C., Calderón-Bustamante, O., Mendoza-Ponce, A., Estrada, F., González-Salazar, C. 2024. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. PLOS One, 19(10), e0308522. https://doi.org/10.1371/journal.pone.0308522
+85 __Velasco, Julian A__, Luna-Aranguré, C., Calderón-Bustamante, O., Mendoza-Ponce, A., Estrada, F., González-Salazar, C. 2024. Drivers of urban biodiversity in Mexico and joint risks from future urban expansion, climate change, and urban heat island effect. PLOS One, 19(10), e0308522. https://doi.org/10.1371/journal.pone.0308522
   
-83 Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. 2024. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). Ecology and Evolution. 14 (3) e11108. https://doi.org/10.1002/ece3.11108
+84 Castaño Quintero, S., __Velasco, J.A__, Gonzalez-Voyer, A., Martínez-Meyer, E., Yañez-Arenas, C. 2024. Niche Position and Niche Breadth Effects on Population Abundances: A Case Study of New World Warblers (Parulidae). Ecology and Evolution. 14 (3) e11108. https://doi.org/10.1002/ece3.11108
 
-82 Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2024. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. 204281. https://doi.org/10.1002/wlb3.01166 
+83 Basanta, M. Delia; __Velasco, J.A__; González-Salazar, C. 2024. Epidemiological landscape of Batrachochytrium dendrobatidis and its impact on amphibian diversity at a global scale. Wildlife Biology. 204281. https://doi.org/10.1002/wlb3.01166 
+
+82 __Velasco, J.A__ 2024 Efecto de la extinción en los patrones de riqueza. En T. Escalante, E. A. García-Trejo, & J. J. Morrone (Eds.), Biogeografía Práctica (pp. 45–52). Las Prensas de Ciencias, UNAM.
   
 ### 2023
 
