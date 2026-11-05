@@ -47,7 +47,7 @@ Climatic niche properties shape treefrog diversity. PLoS One 21(5): e0348700. [h
   
 99 Torres-Romero, E., Eppley, T.M., Allen, M.L., Penteriani, V., Ripple, W.J., O'Brien, C.J. & __Velasco, J.A__. 2026. Recent acceleration of climate change increases extinction risk of the world's carnivores. Journal of Environmental Management 405 (2026) 129768 [https://doi.org/10.1016/j.jenvman.2026.129768](https://doi.org/10.1016/j.jenvman.2026.129768)
   
-98 Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1). [https://doi.org/10.31017/CdH.2026.(2025-032)](https://doi.org/10.31017/CdH.2026.(2025-032))
+98 Vega-Yánez, M.A., Franco-Mena, D., Guayasamin, J.M., Jaramillo, E., __Velasco, J.A__. 2026. Habitat loss and climate-induced distributional shifts on the Andean Red-spotted glassfrog (Nymphargus grandisonae). Cuadernos de Herpetología 40(1). [https://doi.org/10.31017/CdH.2026.(2025-032)](https://doi.org/10.31017/CdH.2026.%282025-032%29)
 
 97 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Diversification and Evolutionary Dynamics in Tropical Montane Regions. Global Ecology and Biogeography 35:e70218. [https://doi.org/10.1111/geb.70218](https://doi.org/10.1111/geb.70218)
 
