@@ -26,11 +26,15 @@ image:
 
 # Peer-reviewed papers: 75 in total
 
-*Corresponding author.
+*Corresponding author
 
 ## 2026
 
-104 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution qpag159. https://doi.org/10.1093/evolut/qpag159
+106 Rodríguez-Rodríguez, J.D., Villalobos, F., González-Voyer, A. & __Velasco, J.A__* 2026. Macroevolution of body size and sexual size dimorphism across lizards: distinct evolutionary patterns between the sexes. Evolution. Aceptado. *corresponding author
+
+105 García-Rodríguez, A., Umhauer, D., Araya-Salas, M., Omer, A., Lenzner, B., Schertler, A., Seebens, H., __Velasco, J.A__, Gallardo, B., Capinha, C., Stefan, D. & Essl, F. 2026. A dataset of records of alien vertebrates in mountains of the World. Scientific Data 4-11-2026 https://www.nature.com/articles/s41597-026-08551-y
+
+104 Salazar, J.C., Algar, A.C., Poe, S., Losos, J.B., & __Velasco, J.A__*. 2026. Repeated evolution of high elevation occupation in tropical lizards. Evolution qpag159. https://doi.org/10.1093/evolut/qpag159 *corresponding author
 
 103 Díaz-Ricaurte, J.C., Martins, M., & __Velasco, J.A__. 2026. Behavioral Thermal Variation across Phylogenetic and Environmental Gradients in Neotropical Ectothermic Terrestrial Tetrapods. Scientific Reports https://doi.org/10.1038/s41598-026-67928-6
   
