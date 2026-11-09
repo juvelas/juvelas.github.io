@@ -24,7 +24,7 @@ image:
 
 [All publications can be downloaded from here](https://drive.google.com/drive/folders/1jysuUGt8P8r7SKE1EW4vboX3iEcWRNI7?usp=sharing)
 
-# Peer-reviewed papers: 76 in total
+# Peer-reviewed papers: 77 in total
 
 *Corresponding author
 
