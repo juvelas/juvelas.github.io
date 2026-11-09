@@ -24,11 +24,13 @@ image:
 
 [All publications can be downloaded from here](https://drive.google.com/drive/folders/1jysuUGt8P8r7SKE1EW4vboX3iEcWRNI7?usp=sharing)
 
-# Peer-reviewed papers: 75 in total
+# Peer-reviewed papers: 76 in total
 
 *Corresponding author
 
 ## 2026
+
+107 Tepos-Ramírez, M., __Velasco, J.A__., Reynoso, V.H. 2026. Disparity and macroevolutionary landscape of the lizard skull structure. Royal Society Open Science. Aceptado. 
 
 106 Rodríguez-Rodríguez, J.D., Villalobos, F., González-Voyer, A. & __Velasco, J.A__* 2026. Macroevolution of body size and sexual size dimorphism across lizards: distinct evolutionary patterns between the sexes. Evolution. Aceptado. *corresponding author
 
